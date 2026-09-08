@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Power Supplies.md",
+                "file": "Storage Devices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Power Supplies"
+              "title": "Storage Devices"
             }
           },
           {
@@ -276,10 +276,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4197ab88cc2a1d7",
+  "active": "de9e2d89c568a772",
   "lastOpenFiles": [
-    "Power Supplies.md",
     "Module 3.md",
+    "Storage Devices.md",
+    "Power Supplies.md",
     "Comptia A+ Exam.md",
     "Module 2.md",
     "Serial Cables.md",
@@ -307,7 +308,6 @@
     "Usb.md",
     "Thuderbolt.md",
     "Lcd Types",
-    "Untitled.canvas",
-    "create a link.md"
+    "Untitled.canvas"
   ]
 }
