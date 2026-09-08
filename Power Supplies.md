@@ -1,0 +1,2 @@
+- North American outlets typically provide 120 VAC (low-line), while UK outlets provide 230 VAC (high-line).
+- 
