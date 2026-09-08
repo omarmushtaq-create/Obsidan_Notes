@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "Module 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "Module 2"
             }
           },
           {
@@ -280,10 +280,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e96a26bfc456f664",
+  "active": "de9e2d89c568a772",
   "lastOpenFiles": [
-    "Module 2.md",
     "test.md",
+    "Module 2.md",
     "Serial Cables.md",
     "Random important info.md",
     "Organic Light-Emitting Diode (Oled).md",
