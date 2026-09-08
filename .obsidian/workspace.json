@@ -1,105 +1,34 @@
 {
   "main": {
-    "id": "e2f99265a1c211b0",
+    "id": "79003e0c7ac558df",
     "type": "split",
     "children": [
       {
-        "id": "f369c45ce8f74c4f",
+        "id": "bd3b6a9dd1ccb1b3",
         "type": "tabs",
         "children": [
           {
-            "id": "842ec2e06b627d38",
+            "id": "bfb40a708949e72d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cables (2.1).md",
+                "file": "Comptia A+ Exam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cables (2.1)"
-            }
-          },
-          {
-            "id": "f04082894bbbbe0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In-Pane Switching (IPS).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "In-Pane Switching (IPS)"
-            }
-          },
-          {
-            "id": "6771227aff8dac9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In-Pane Switching (IPS).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "In-Pane Switching (IPS)"
-            }
-          },
-          {
-            "id": "bf2cd29ecd03a7ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Twisted Nematic (TN).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Twisted Nematic (TN)"
-            }
-          },
-          {
-            "id": "de9e2d89c568a772",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RAID 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RAID 1"
-            }
-          },
-          {
-            "id": "393cd6d62cd51004",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Module 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Module 1"
+              "title": "Comptia A+ Exam"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
-        "id": "f44742ceed303abc",
+        "id": "8935bd350f38b2ec",
         "type": "tabs",
         "children": [
           {
-            "id": "b4197ab88cc2a1d7",
+            "id": "61f7c367f7dddb89",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -114,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dfb8981972e89edb",
+    "id": "23658bdee0a7b636",
     "type": "split",
     "children": [
       {
-        "id": "8441f2cc84032557",
+        "id": "5459f6f2f769ff6f",
         "type": "tabs",
         "children": [
           {
-            "id": "e96a26bfc456f664",
+            "id": "0007834d95c0fbc6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -137,7 +66,7 @@
             }
           },
           {
-            "id": "f1df1eae40d2ae08",
+            "id": "f3571479b1d6b118",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -154,7 +83,7 @@
             }
           },
           {
-            "id": "74fe792a6c66a3f0",
+            "id": "9915d4cbb6831543",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -173,20 +102,19 @@
     "width": 300
   },
   "right": {
-    "id": "f5a98fa955190b86",
+    "id": "478c3571e4a1a46a",
     "type": "split",
     "children": [
       {
-        "id": "575ce5fe671f0fe2",
+        "id": "d9c162b031990919",
         "type": "tabs",
         "children": [
           {
-            "id": "92569462fd6aa5a2",
+            "id": "92fa5a949985eeef",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serial Cables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,12 +128,11 @@
             }
           },
           {
-            "id": "156bb0780ec1ef01",
+            "id": "84c1ec07a3449a3f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -214,7 +141,7 @@
             }
           },
           {
-            "id": "d92f3b32c0a0f1d5",
+            "id": "b814fc8b20e8c286",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -229,7 +156,7 @@
             }
           },
           {
-            "id": "4b5111fd5c14e79a",
+            "id": "1d8e1647186370ca",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -243,12 +170,11 @@
             }
           },
           {
-            "id": "a4fed0c1caf65957",
+            "id": "0485f446fa6e4443",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -276,38 +202,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de9e2d89c568a772",
+  "active": "bfb40a708949e72d",
   "lastOpenFiles": [
+    "Comptia A+ Exam.md",
+    "Vertical Alignment (VA).md",
+    "Usb.md",
+    "Twisted Nematic (TN).md",
+    "Touch Screen and Digitizer.md",
+    "Thuderbolt.md",
+    "Storage Devices.md",
+    "Serial Cables.md",
+    "SATA.md",
+    "Random important info.md",
     "RAIDS Arrays.md",
     "RAID 1.md",
     "RAID 0.md",
-    "Storage Devices.md",
-    "Module 3.md",
     "Power Supplies.md",
-    "Comptia A+ Exam.md",
-    "Module 2.md",
-    "Serial Cables.md",
-    "test.md",
-    "Random important info.md",
-    "Organic Light-Emitting Diode (Oled).md",
     "Pixel Density.md",
-    "Twisted Nematic (TN).md",
-    "SATA.md",
-    "Notes/Notes/test.txt",
-    "Notes/Notes",
-    "Notes",
-    "Lcd Types.md",
-    "In-Pane Switching (IPS).md",
-    "Vertical Alignment (VA).md",
+    "Organic Light-Emitting Diode (Oled).md",
+    "Module 3.md",
+    "Module 2.md",
     "Module 1.md",
-    "Display Components.md",
-    "Touch Screen and Digitizer.md",
-    "Inverter.md",
     "Mini-Led.md",
     "Legacy Cables (2.3).md",
+    "Lcd Types.md",
+    "Inverter.md",
+    "In-Pane Switching (IPS).md",
     "HDMI vs Display Port.md",
-    "Cables (2.1).md",
-    "Lcd Types",
-    "Untitled.canvas"
+    "Display Components.md"
   ]
 }
