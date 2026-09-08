@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "de9e2d89c568a772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
+          },
+          {
             "id": "393cd6d62cd51004",
             "type": "leaf",
             "state": {
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "f44742ceed303abc",
@@ -90,12 +104,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organic Light-Emitting Diode (Oled).md",
+                "file": "Serial Cables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Organic Light-Emitting Diode (Oled)"
+              "title": "Serial Cables"
             }
           }
         ]
@@ -176,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Serial Cables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,31 +280,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e96a26bfc456f664",
+  "active": "de9e2d89c568a772",
   "lastOpenFiles": [
-    "SATA.md",
+    "Serial Cables.md",
+    "test.md",
+    "Random important info.md",
+    "Module 2.md",
     "Organic Light-Emitting Diode (Oled).md",
+    "Pixel Density.md",
+    "Twisted Nematic (TN).md",
+    "SATA.md",
     "Notes/Notes/test.txt",
     "Notes/Notes",
     "Notes",
     "Lcd Types.md",
     "In-Pane Switching (IPS).md",
     "Vertical Alignment (VA).md",
-    "Twisted Nematic (TN).md",
     "Module 1.md",
     "Display Components.md",
     "Touch Screen and Digitizer.md",
     "Inverter.md",
     "Mini-Led.md",
-    "Module 2.md",
-    "Random important info.md",
     "Comptia A+ Exam.md",
-    "Serial Cables.md",
     "Legacy Cables (2.3).md",
     "HDMI vs Display Port.md",
     "Cables (2.1).md",
     "2.1 (Cables).md",
-    "Pixel Density.md",
     "Usb.md",
     "Thuderbolt.md",
     "Lcd Types",
