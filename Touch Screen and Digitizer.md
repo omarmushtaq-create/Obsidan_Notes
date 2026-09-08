@@ -1,0 +1,1 @@
+Integral for interactive displays, allowing direct interaction through touch or stylus. This is common in smartphones, tablets, and some laptops.

@@ -1,0 +1,11 @@
+- Thunderbolt 1 and 2
+	- Use same inteface as Mini Display Port and are compatible with display port
+	- Supports 20 Gbps 
+- Thunderbolt 3
+	- Is now Usb-c
+	- Supports 40 Gbps 
+- Thunderbolt 4
+	- Same as 3 but now with improved minimum performance requirements and expanded capabilities, such as support for docks with up to four Thunderbolt 4 ports.
+- Thunderbolt 5
+	- Same as 4 but faster
+	

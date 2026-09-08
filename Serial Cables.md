@@ -1,0 +1,4 @@
+
+The **serial** port is a legacy connection interface that transmits data one bit at a time over a single wire. Start, stop, and parity bits format and verify data transmission. This interface is also known as Recommended Standard #232 (RS-232). While modern interfaces like USB are also serial, RS-232 uses less sophisticated signaling, supporting data rates up to about 115 Kbps.
+
+The **serial** port is a legacy connection interface that transmits data one bit at a time over a single wire. Start, stop, and parity bits format and verify data transmission. This interface is also known as Recommended Standard #232 (RS-232). While modern interfaces like USB are also serial, RS-232 uses less sophisticated signaling, supporting data rates up to about 115 Kbps.

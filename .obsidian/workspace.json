@@ -1,0 +1,301 @@
+{
+  "main": {
+    "id": "e2f99265a1c211b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f369c45ce8f74c4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "842ec2e06b627d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cables (2.1).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cables (2.1)"
+            }
+          },
+          {
+            "id": "f04082894bbbbe0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In-Pane Switching (IPS).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "In-Pane Switching (IPS)"
+            }
+          },
+          {
+            "id": "6771227aff8dac9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In-Pane Switching (IPS).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "In-Pane Switching (IPS)"
+            }
+          },
+          {
+            "id": "bf2cd29ecd03a7ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Twisted Nematic (TN).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Twisted Nematic (TN)"
+            }
+          },
+          {
+            "id": "393cd6d62cd51004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Module 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Module 1"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "f44742ceed303abc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4197ab88cc2a1d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organic Light-Emitting Diode (Oled).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Organic Light-Emitting Diode (Oled)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfb8981972e89edb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8441f2cc84032557",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e96a26bfc456f664",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f1df1eae40d2ae08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "74fe792a6c66a3f0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5a98fa955190b86",
+    "type": "split",
+    "children": [
+      {
+        "id": "575ce5fe671f0fe2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92569462fd6aa5a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "156bb0780ec1ef01",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d92f3b32c0a0f1d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4b5111fd5c14e79a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a4fed0c1caf65957",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e96a26bfc456f664",
+  "lastOpenFiles": [
+    "SATA.md",
+    "Organic Light-Emitting Diode (Oled).md",
+    "Notes/Notes/test.txt",
+    "Notes/Notes",
+    "Notes",
+    "Lcd Types.md",
+    "In-Pane Switching (IPS).md",
+    "Vertical Alignment (VA).md",
+    "Twisted Nematic (TN).md",
+    "Module 1.md",
+    "Display Components.md",
+    "Touch Screen and Digitizer.md",
+    "Inverter.md",
+    "Mini-Led.md",
+    "Module 2.md",
+    "Random important info.md",
+    "Comptia A+ Exam.md",
+    "Serial Cables.md",
+    "Legacy Cables (2.3).md",
+    "HDMI vs Display Port.md",
+    "Cables (2.1).md",
+    "2.1 (Cables).md",
+    "Pixel Density.md",
+    "Usb.md",
+    "Thuderbolt.md",
+    "Lcd Types",
+    "Untitled.canvas",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}

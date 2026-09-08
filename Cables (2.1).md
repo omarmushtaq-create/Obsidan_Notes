@@ -1,0 +1,5 @@
+- [[Usb]]
+- [[HDMI vs Display Port]]
+- [[Thuderbolt]]
+- [[SATA]]
+- 

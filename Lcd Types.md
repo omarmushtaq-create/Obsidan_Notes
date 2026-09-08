@@ -1,0 +1,5 @@
+- [[Mini-Led]]
+- [[In-Pane Switching (IPS)]]
+- [[Organic Light-Emitting Diode (Oled)]]
+- [[Twisted Nematic (TN)]]
+- [[Vertical Alignment (VA)]]
