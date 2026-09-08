@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAID 0.md",
+                "file": "RAID 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAID 0"
+              "title": "RAID 1"
             }
           },
           {
@@ -279,6 +279,7 @@
   "active": "de9e2d89c568a772",
   "lastOpenFiles": [
     "RAIDS Arrays.md",
+    "RAID 1.md",
     "RAID 0.md",
     "Storage Devices.md",
     "Module 3.md",
@@ -306,7 +307,6 @@
     "Legacy Cables (2.3).md",
     "HDMI vs Display Port.md",
     "Cables (2.1).md",
-    "2.1 (Cables).md",
     "Lcd Types",
     "Untitled.canvas"
   ]
