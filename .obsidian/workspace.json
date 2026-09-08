@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storage Devices.md",
+                "file": "RAID 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Storage Devices"
+              "title": "RAID 0"
             }
           },
           {
@@ -278,8 +278,10 @@
   },
   "active": "de9e2d89c568a772",
   "lastOpenFiles": [
-    "Module 3.md",
+    "RAIDS Arrays.md",
+    "RAID 0.md",
     "Storage Devices.md",
+    "Module 3.md",
     "Power Supplies.md",
     "Comptia A+ Exam.md",
     "Module 2.md",
@@ -305,8 +307,6 @@
     "HDMI vs Display Port.md",
     "Cables (2.1).md",
     "2.1 (Cables).md",
-    "Usb.md",
-    "Thuderbolt.md",
     "Lcd Types",
     "Untitled.canvas"
   ]
