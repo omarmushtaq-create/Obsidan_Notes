@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAID 5.md",
+                "file": "RAID 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAID 5"
+              "title": "RAID 6"
             }
           }
         ]
@@ -189,6 +189,8 @@
   "active": "bfb40a708949e72d",
   "lastOpenFiles": [
     "RAIDS Arrays.md",
+    "RAID 6.md",
+    "RAID 10.md",
     "RAID 5.md",
     "Storage Devices.md",
     "Module 3.md",
@@ -211,8 +213,6 @@
     "Mini-Led.md",
     "Legacy Cables (2.3).md",
     "Lcd Types.md",
-    "Inverter.md",
-    "In-Pane Switching (IPS).md",
-    "HDMI vs Display Port.md"
+    "Inverter.md"
   ]
 }
