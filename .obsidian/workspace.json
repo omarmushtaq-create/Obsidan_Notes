@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comptia A+ Exam.md",
+                "file": "RAID 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comptia A+ Exam"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8935bd350f38b2ec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "61f7c367f7dddb89",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "RAID 5"
             }
           }
         ]
@@ -99,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "478c3571e4a1a46a",
@@ -204,31 +188,31 @@
   },
   "active": "bfb40a708949e72d",
   "lastOpenFiles": [
+    "RAIDS Arrays.md",
+    "RAID 5.md",
+    "Storage Devices.md",
+    "Module 3.md",
+    "Module 2.md",
+    "Organic Light-Emitting Diode (Oled).md",
     "Comptia A+ Exam.md",
     "Vertical Alignment (VA).md",
     "Usb.md",
     "Twisted Nematic (TN).md",
     "Touch Screen and Digitizer.md",
     "Thuderbolt.md",
-    "Storage Devices.md",
     "Serial Cables.md",
     "SATA.md",
     "Random important info.md",
-    "RAIDS Arrays.md",
     "RAID 1.md",
     "RAID 0.md",
     "Power Supplies.md",
     "Pixel Density.md",
-    "Organic Light-Emitting Diode (Oled).md",
-    "Module 3.md",
-    "Module 2.md",
     "Module 1.md",
     "Mini-Led.md",
     "Legacy Cables (2.3).md",
     "Lcd Types.md",
     "Inverter.md",
     "In-Pane Switching (IPS).md",
-    "HDMI vs Display Port.md",
-    "Display Components.md"
+    "HDMI vs Display Port.md"
   ]
 }
