@@ -1,0 +1,1 @@
+SD Express cards stand out because they use PCIe and NVMe interfaces, allowing for significantly higher speeds of up to 985 MBps compared to earlier versions. They are not limited to USB interfaces or small capacities; instead, they offer improved performance and capacity options. The original SD format only supported speeds up to 25 MBps, which is much slower than SD Express.
