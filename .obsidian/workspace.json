@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAID 1.md",
+                "file": "RAID 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAID 1"
+              "title": "RAID 5"
             }
           }
         ]
@@ -188,12 +188,12 @@
   },
   "active": "bfb40a708949e72d",
   "lastOpenFiles": [
-    "RAID 5.md",
     "RAID 1.md",
+    "RAID 5.md",
     "RAID 0.md",
+    "RAID 10.md",
     "RAID 6.md",
     "RAIDS Arrays.md",
-    "RAID 10.md",
     "Storage Devices.md",
     "Module 3.md",
     "Module 2.md",
