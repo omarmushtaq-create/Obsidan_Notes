@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Memory.md",
+                "file": "D rams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System Memory"
+              "title": "D rams"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "bfb40a708949e72d",
   "lastOpenFiles": [
-    "Address paths.md",
     "System Memory.md",
+    "D rams.md",
+    "Address paths.md",
     "Module 3.md",
     "RAID 5.md",
     "Memory Cards.md",
@@ -212,7 +213,6 @@
     "SATA.md",
     "Random important info.md",
     "Power Supplies.md",
-    "Pixel Density.md",
-    "Module 1.md"
+    "Pixel Density.md"
   ]
 }
