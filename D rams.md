@@ -14,3 +14,6 @@ DDR memory modules are labeled by their maximum theoretical bandwidth, such as P
 |          |                   |                    |                  |
 *- DDR4: Introduced improvements such as increased power efficiency and higher density, allowing for larger memory capacities. It also features a more efficient channel design, which enhances data throughput.
 - DDR5: Further enhances power efficiency and introduces a new dual 32-bit subchannel architecture within each DIMM, effectively allowing more efficient access and reducing latency.*
+
+- The peak transfer rate  is calculated by multiplying the data rate
+- The primary way that DDR2, DDR3, DDR4, and DDR5 memory improve performance over earlier DDR versions is by multiplying the bus speed to allow higher bandwidth.
