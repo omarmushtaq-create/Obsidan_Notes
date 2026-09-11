@@ -1,0 +1,3 @@
+- [[Intel Sockets]]
+- [[Amd Socket]]
+- 

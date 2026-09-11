@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARM.md",
+                "file": "Cpu Sockets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARM"
+              "title": "Cpu Sockets"
             }
           }
         ]
@@ -204,12 +204,15 @@
   },
   "active": "bfb40a708949e72d",
   "lastOpenFiles": [
+    "Amd Socket.md",
+    "Cpu Sockets.md",
+    "Intel Sockets.md",
+    "CPU.md",
     "CPU architecture.md",
     "ARM.md",
     "x64.md",
     "D rams.md",
     "x86.md",
-    "CPU.md",
     "Module 3.md",
     "Comptia A+ Exam.md",
     "System Memory.md",
@@ -226,9 +229,6 @@
     "Module 2.md",
     "Organic Light-Emitting Diode (Oled).md",
     "Vertical Alignment (VA).md",
-    "Usb.md",
-    "Twisted Nematic (TN).md",
-    "Touch Screen and Digitizer.md",
-    "Thuderbolt.md"
+    "Usb.md"
   ]
 }
