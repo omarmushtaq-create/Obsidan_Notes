@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPU.md",
+                "file": "Intel Sockets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CPU"
+              "title": "Intel Sockets"
             }
           }
         ]
@@ -204,10 +204,10 @@
   },
   "active": "bfb40a708949e72d",
   "lastOpenFiles": [
+    "Cpu Sockets.md",
+    "CPU.md",
     "CPU architecture.md",
     "x64.md",
-    "CPU.md",
-    "Cpu Sockets.md",
     "Amd Socket.md",
     "Intel Sockets.md",
     "ARM.md",
