@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D rams.md",
+                "file": "CPU.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D rams"
+              "title": "CPU"
             }
           }
         ]
@@ -188,10 +188,14 @@
   },
   "active": "bfb40a708949e72d",
   "lastOpenFiles": [
-    "System Memory.md",
-    "D rams.md",
-    "Address paths.md",
+    "x64.md",
+    "CPU.md",
+    "x86.md",
     "Module 3.md",
+    "Comptia A+ Exam.md",
+    "D rams.md",
+    "System Memory.md",
+    "Address paths.md",
     "RAID 5.md",
     "Memory Cards.md",
     "Portable Storage.md",
@@ -203,16 +207,12 @@
     "RAID 6.md",
     "Module 2.md",
     "Organic Light-Emitting Diode (Oled).md",
-    "Comptia A+ Exam.md",
     "Vertical Alignment (VA).md",
     "Usb.md",
     "Twisted Nematic (TN).md",
     "Touch Screen and Digitizer.md",
     "Thuderbolt.md",
     "Serial Cables.md",
-    "SATA.md",
-    "Random important info.md",
-    "Power Supplies.md",
-    "Pixel Density.md"
+    "SATA.md"
   ]
 }
