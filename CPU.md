@@ -1,4 +1,3 @@
-- [[x86]]
-- [[x64]]
+
 - [[CPU architecture]]
 - 

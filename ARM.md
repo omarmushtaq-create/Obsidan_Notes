@@ -1,0 +1,4 @@
+- ARM (Advanced RISC Machines) provide CPU designs that are customized and manufactured by companies like Qualcomm, Nvidia, Apple, and Samsung.
+- Integrating ARM-based SoCs into devices like mobile phones, tablets, or fanless laptops leverages their compact size and thermal efficiency.
+- ARM SoCs are typically soldered directly onto the motherboard
+- In fanless devices, ARM's low power consumption and efficient heat management allow for passive cooling solutions, such as heat sinks, instead of fans. This contributes to silent operation and longer battery life. Additionally, ARM SoCs integrate multiple functions, like GPU, networking, and storage controllers, reducing the number of components needed on the motherboard, which simplifies design and lowers production costs.

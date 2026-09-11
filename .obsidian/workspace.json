@@ -13,12 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPU.md",
+                "file": "ARM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CPU"
+              "title": "ARM"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a52efbeedad5fcf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0e44946fe746329",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -188,12 +204,14 @@
   },
   "active": "bfb40a708949e72d",
   "lastOpenFiles": [
+    "CPU architecture.md",
+    "ARM.md",
     "x64.md",
-    "CPU.md",
+    "D rams.md",
     "x86.md",
+    "CPU.md",
     "Module 3.md",
     "Comptia A+ Exam.md",
-    "D rams.md",
     "System Memory.md",
     "Address paths.md",
     "RAID 5.md",
@@ -211,8 +229,6 @@
     "Usb.md",
     "Twisted Nematic (TN).md",
     "Touch Screen and Digitizer.md",
-    "Thuderbolt.md",
-    "Serial Cables.md",
-    "SATA.md"
+    "Thuderbolt.md"
   ]
 }
