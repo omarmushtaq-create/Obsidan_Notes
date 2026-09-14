@@ -1,0 +1,2 @@
+- The units for speed are known as revolutions per minute (RPM). High-performance drives are rated at 15,000 or 10,000 rpm; average performance is 7,200 or 5,400 rpm. A 15 K drive should support an internal transfer rate of 180 MBps.
+- 
