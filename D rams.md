@@ -17,3 +17,4 @@ DDR memory modules are labeled by their maximum theoretical bandwidth, such as P
 - The peak transfer rate  is calculated by multiplying the data rate
 - The primary way that DDR2, DDR3, DDR4, and DDR5 memory improve performance over earlier DDR versions is by multiplying the bus speed to allow higher bandwidth.
 - Dual-channel memory controllers effectively have two 64-bit pathways through the bus to the CPU, meaning that they can send 128 bits of data per transfer rather than 64 bits.
+- RDIMM Error correct

@@ -1,1 +1,2 @@
 - Sata Drives use AHCI
+- Devices with 2.5-inch form factors can vary in height, with 15 mm, 9.5 mm, 7 mm, and 5 mm form factors available. However, 5.5 mm is not a standard size.
