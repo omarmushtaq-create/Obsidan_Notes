@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D rams.md",
+                "file": "RAIDS Arrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D rams"
+              "title": "RAIDS Arrays"
             }
           }
         ]
@@ -204,21 +204,21 @@
   },
   "active": "bfb40a708949e72d",
   "lastOpenFiles": [
-    "Power Supplies.md",
-    "Module 3.md",
-    "CPU.md",
-    "CPU architecture.md",
-    "ARM.md",
-    "x64.md",
-    "D rams.md",
-    "System Memory.md",
-    "RAID 5.md",
-    "Module 2.md",
-    "Module 1.md",
     "Storage Devices.md",
-    "Portable Storage.md",
+    "Module 3.md",
     "Intel Sockets.md",
     "Cpu Sockets.md",
+    "CPU.md",
+    "x64.md",
+    "D rams.md",
+    "CPU architecture.md",
+    "RAID 5.md",
+    "Power Supplies.md",
+    "ARM.md",
+    "System Memory.md",
+    "Module 2.md",
+    "Module 1.md",
+    "Portable Storage.md",
     "Amd Socket.md",
     "x86.md",
     "Comptia A+ Exam.md",
