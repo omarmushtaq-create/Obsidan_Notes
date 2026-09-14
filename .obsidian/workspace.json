@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storage Devices.md",
+                "file": "CPU.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Storage Devices"
+              "title": "CPU"
             }
           }
         ]
@@ -204,6 +204,12 @@
   },
   "active": "bfb40a708949e72d",
   "lastOpenFiles": [
+    "x64.md",
+    "D rams.md",
+    "Hard Drives - SATA Drives.md",
+    "Storage Devices.md",
+    "Hard Drives/SATA Drives.md",
+    "Hard Drives",
     "Module 3.md",
     "CPU.md",
     "RAID 5.md",
@@ -213,11 +219,8 @@
     "RAID 0.md",
     "RAID 1.md",
     "Hard Drives.md",
-    "Storage Devices.md",
     "Intel Sockets.md",
     "Cpu Sockets.md",
-    "x64.md",
-    "D rams.md",
     "CPU architecture.md",
     "Power Supplies.md",
     "ARM.md",
@@ -227,8 +230,6 @@
     "Portable Storage.md",
     "Amd Socket.md",
     "x86.md",
-    "Comptia A+ Exam.md",
-    "Address paths.md",
-    "Memory Cards.md"
+    "Comptia A+ Exam.md"
   ]
 }

@@ -1,0 +1,1 @@
+- Sata Drives use AHCI
