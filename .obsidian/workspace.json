@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "x64.md",
+                "file": "D rams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "x64"
+              "title": "D rams"
             }
           }
         ]
@@ -204,12 +204,14 @@
   },
   "active": "bfb40a708949e72d",
   "lastOpenFiles": [
-    "CPU architecture.md",
-    "CPU.md",
+    "Power Supplies.md",
     "Module 3.md",
+    "CPU.md",
+    "CPU architecture.md",
+    "ARM.md",
+    "x64.md",
     "D rams.md",
     "System Memory.md",
-    "Power Supplies.md",
     "RAID 5.md",
     "Module 2.md",
     "Module 1.md",
@@ -217,9 +219,7 @@
     "Portable Storage.md",
     "Intel Sockets.md",
     "Cpu Sockets.md",
-    "x64.md",
     "Amd Socket.md",
-    "ARM.md",
     "x86.md",
     "Comptia A+ Exam.md",
     "Address paths.md",
