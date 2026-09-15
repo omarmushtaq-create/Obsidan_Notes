@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amd Socket.md",
+                "file": "Trusted Platform Modules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amd Socket"
+              "title": "Trusted Platform Modules"
             }
           }
         ]
@@ -204,9 +204,14 @@
   },
   "active": "bfb40a708949e72d",
   "lastOpenFiles": [
+    "Bios and UEFI.md",
+    "Trusted Platform Modules.md",
+    "Module 4.md",
+    "Module 3.md",
+    "Comptia A+ Exam.md",
+    "Amd Socket.md",
     "Cpu Sockets.md",
     "CPU.md",
-    "Module 3.md",
     "D rams.md",
     "Hard Drives - SATA Drives.md",
     "Storage Devices.md",
@@ -225,11 +230,6 @@
     "Power Supplies.md",
     "ARM.md",
     "System Memory.md",
-    "Module 2.md",
-    "Module 1.md",
-    "Portable Storage.md",
-    "Amd Socket.md",
-    "x86.md",
-    "Comptia A+ Exam.md"
+    "Module 2.md"
   ]
 }

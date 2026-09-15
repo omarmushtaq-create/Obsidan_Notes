@@ -1,0 +1,4 @@
+- UEFI-based systems provide secure storage for  keys, often using hardware-based solutions like the Trusted Platform Module (TPM).
+- A trusted platform module (TPM) is hardware that securely stores digital certificates, cryptographic keys, and hashed passwords. Each TPM chip has a unique, unchangeable endorsement key, establishing a root of trust. During boot, the TPM compares hashes of key system data (such as firmware, boot loader, and OS kernel) to ensure they haven't been tampered with.
+- The TPM provides superior security by storing cryptographic keys in tamper-resistant hardware, isolating them from the OS and applications, which are more vulnerable to malware and unauthorized access.
+- The TPM's secure storage area can be used by disk encryption programs like Windows BitLocker to store their keys. TPMs can be enabled, disabled, or reset via the system setup program (BIOS/UEFI) and managed from the operating system.
