@@ -1,2 +1,3 @@
 - [[Bios and UEFI]]
+- [[Troubleshooting]]
 - 

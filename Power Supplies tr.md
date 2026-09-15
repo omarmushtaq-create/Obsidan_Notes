@@ -1,0 +1,6 @@
+- Check other equipment: Ensure other devices in the area are working to rule out a power circuit fault or a blackout.
+- Test the wall socket: Plug a known-good device, like a lamp, into the wall socket. If it doesn't work, the socket is faulty. Contact an electrician.
+- Verify PSU connections: Ensure the PSU is properly connected to the PC and wall socket, and all switches are in the "on" position.
+- Try another power cable: There may be an issue with the plug or fuse. Check the plug's wiring and fuse resistance with a multimeter or swap with a known good fuse.
+- Disconnect extra devices: Remove devices like a plug-in graphics card. If this solves the problem, the PSU may be underpowered, or one of the devices is faulty.
+- Test the PSU: If safe, use a multimeter or power supply tester to check the PSU.

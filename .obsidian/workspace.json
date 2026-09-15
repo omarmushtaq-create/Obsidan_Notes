@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trusted Platform Modules.md",
+                "file": "Power Supplies tr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trusted Platform Modules"
+              "title": "Power Supplies tr"
             }
           }
         ]
@@ -204,9 +204,11 @@
   },
   "active": "bfb40a708949e72d",
   "lastOpenFiles": [
-    "Bios and UEFI.md",
-    "Trusted Platform Modules.md",
+    "Troubleshooting.md",
+    "Power Supplies tr.md",
     "Module 4.md",
+    "Trusted Platform Modules.md",
+    "Bios and UEFI.md",
     "Module 3.md",
     "Comptia A+ Exam.md",
     "Amd Socket.md",
@@ -228,8 +230,6 @@
     "Intel Sockets.md",
     "CPU architecture.md",
     "Power Supplies.md",
-    "ARM.md",
-    "System Memory.md",
-    "Module 2.md"
+    "ARM.md"
   ]
 }
