@@ -4,3 +4,4 @@
 - Try another power cable: There may be an issue with the plug or fuse. Check the plug's wiring and fuse resistance with a multimeter or swap with a known good fuse.
 - Disconnect extra devices: Remove devices like a plug-in graphics card. If this solves the problem, the PSU may be underpowered, or one of the devices is faulty.
 - Test the PSU: If safe, use a multimeter or power supply tester to check the PSU.
+- Try flipping the red switch on the back to change the voltage
