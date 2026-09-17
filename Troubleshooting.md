@@ -1,2 +1,3 @@
 - [[Power Supplies tr]]
+- [[CPU tr]]
 - 
