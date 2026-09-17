@@ -1,0 +1,1 @@
+- Over time, an accumulation of dust can gradually build up and cause significant overheating (which results in lock-ups) by constricting airflow through the system case. Vent holes and heat sinks can become clogged with dust, which prevents heat dissipation. Remove the dust with compressed air or with an anti-static vacuum.

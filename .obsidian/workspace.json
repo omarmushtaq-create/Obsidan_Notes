@@ -205,6 +205,7 @@
   "active": "bfb40a708949e72d",
   "lastOpenFiles": [
     "Troubleshooting.md",
+    "System tr.md",
     "CPU tr.md",
     "Power Supplies tr.md",
     "Module 4.md",
@@ -229,7 +230,6 @@
     "RAID 1.md",
     "Hard Drives.md",
     "Intel Sockets.md",
-    "CPU architecture.md",
-    "Power Supplies.md"
+    "CPU architecture.md"
   ]
 }
