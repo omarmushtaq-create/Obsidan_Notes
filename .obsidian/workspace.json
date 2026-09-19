@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPU tr.md",
+                "file": "Storage tr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CPU tr"
+              "title": "Storage tr"
             }
           }
         ]
@@ -205,14 +205,15 @@
   "active": "bfb40a708949e72d",
   "lastOpenFiles": [
     "Troubleshooting.md",
-    "System tr.md",
-    "CPU tr.md",
-    "Power Supplies tr.md",
+    "Storage tr.md",
     "Module 4.md",
+    "Comptia A+ Exam.md",
+    "CPU tr.md",
+    "System tr.md",
+    "Power Supplies tr.md",
     "Trusted Platform Modules.md",
     "Bios and UEFI.md",
     "Module 3.md",
-    "Comptia A+ Exam.md",
     "Amd Socket.md",
     "Cpu Sockets.md",
     "CPU.md",
@@ -229,7 +230,6 @@
     "RAID 0.md",
     "RAID 1.md",
     "Hard Drives.md",
-    "Intel Sockets.md",
-    "CPU architecture.md"
+    "Intel Sockets.md"
   ]
 }

@@ -1,0 +1,2 @@
+- Corupted files can be caused by aplication crashes
+- 

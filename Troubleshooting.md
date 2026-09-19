@@ -1,4 +1,5 @@
 - [[Power Supplies tr]]
 - [[CPU tr]]
 - [[System tr]]
+- [[Storage tr]]
 - 
