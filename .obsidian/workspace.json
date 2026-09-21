@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storage tr.md",
+                "file": "Random important info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Storage tr"
+              "title": "Random important info"
             }
           }
         ],
@@ -217,18 +217,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bfb40a708949e72d",
+  "active": "14ee37a6cb322ae1",
   "lastOpenFiles": [
-    "Troubleshooting.md",
-    "Storage tr.md",
-    "Module 4.md",
     "Comptia A+ Exam.md",
+    "Module 4.md",
+    "Module 3.md",
+    "Random important info.md",
+    "Module 2.md",
+    "Cables (2.1).md",
+    "Storage tr.md",
+    "Troubleshooting.md",
     "CPU tr.md",
     "System tr.md",
     "Power Supplies tr.md",
     "Trusted Platform Modules.md",
     "Bios and UEFI.md",
-    "Module 3.md",
     "Amd Socket.md",
     "Cpu Sockets.md",
     "CPU.md",
@@ -242,9 +245,6 @@
     "Hard Drives",
     "RAID 10.md",
     "RAIDS Arrays.md",
-    "RAID 0.md",
-    "RAID 1.md",
-    "Hard Drives.md",
-    "Intel Sockets.md"
+    "RAID 0.md"
   ]
 }
