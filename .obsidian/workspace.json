@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random important info.md",
+                "file": "Vertical Alignment (VA).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random important info"
+              "title": "Vertical Alignment (VA)"
             }
           }
         ],
@@ -219,23 +219,23 @@
   },
   "active": "14ee37a6cb322ae1",
   "lastOpenFiles": [
+    "Lcd Types.md",
+    "In-Pane Switching (IPS).md",
+    "Vertical Alignment (VA).md",
+    "Organic Light-Emitting Diode (Oled).md",
+    "Module 1.md",
+    "Random important info.md",
     "Comptia A+ Exam.md",
     "Module 2.md",
     "Module 3.md",
-    "Random important info.md",
     "Cables (2.1).md",
     "Legacy Cables (2.3).md",
     "Serial Cables.md",
-    "Module 1.md",
     "Memory Cards.md",
     "Portable Storage.md",
     "Storage Devices.md",
     "x64.md",
-    "Vertical Alignment (VA).md",
-    "Lcd Types.md",
     "Twisted Nematic (TN).md",
-    "Organic Light-Emitting Diode (Oled).md",
-    "In-Pane Switching (IPS).md",
     "Inverter.md",
     "Display Components.md",
     "D rams.md",
