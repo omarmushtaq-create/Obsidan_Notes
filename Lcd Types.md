@@ -3,3 +3,4 @@
 - [[Organic Light-Emitting Diode (Oled)]]
 - [[Twisted Nematic (TN)]]
 - [[Vertical Alignment (VA)]]
+- 

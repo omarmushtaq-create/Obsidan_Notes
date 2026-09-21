@@ -1,1 +1,1 @@
-Crucial in older LCDs for converting DC power to AC for the backlight. Modern displays with LED backlighting typically do not require an inverter.
+Crucial in older LCDs for converting DC power to AC for the backlight. Modern displays with LED backlighting typically do not require an inverter because LED backlighting operates directly on DC power without needing conversion to AC.
