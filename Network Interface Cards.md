@@ -10,4 +10,13 @@ Ethernet communications are established by either electrical signaling over copp
 	- **Captured Ethernet frame showing the destination and source MAC addresses. The destination address is a broadcast address**![A screenshot of the Wireshark network protocol analyzer capturing packets from a network interface.](https://cdn.testout.com/a-plus-220-120x-en-us/materials/resources/text/s_networking_hardware/7431-1636621539755-wireshark_frame_fields_example.png)
 
 
-- 
+- A MAC address consists of 48 binary digits, making it six bytes in size. A MAC address is typically represented as 12 digits of hexadecimal.
+- A MAC address is typically written out with a colon separating every two digits. They may occasionally use a hyphen or no separator - for example, `00:60:8C:12:3A:BC` or `00608C123ABC`.
+- A MAC address is broken into two distinct parts:
+
+	- The first 24 bits are known as the **Organizationally Unique Identifier (OUI)**. This identifies the manufacturer of the NIC.
+	    
+	- The last 24 bits are known as the **Network Interface Controller (NIC) Specific**. This is a unique identifier for each NIC.
+- When you convert the first two hex digits of a MAC address to binary, the two right-most bits act as flags. 
+- The very last bit shows individual (0) versus group / multicast (1). 
+- The bit just to its left shows universally administered (0, factory) versus locally administered (1, set by software). 
