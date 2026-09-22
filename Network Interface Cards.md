@@ -4,4 +4,4 @@ Ethernet communications are established by either electrical signaling over copp
 - You can also get cards with multiple of the same port.
 - The multiple ports can be bonded to create a higher-speed link. Four Gigabit Ethernet ports could be bonded to give a nominal link speed of 4 Gbps.
 - For the NIC to be able to process the electrical or light signals as digital data, the signals must be divided into regular units with a consistent format.
-- 
+- Ethernet allows nodes on a LAN to comunicate woth each other and interpret the light/electrical siganals/
