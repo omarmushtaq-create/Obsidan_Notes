@@ -1,5 +1,3 @@
 - [[Network types]]
-- [[Network Interface Cards and MACS]]
-- [[Patch Panels]]
-- [[Switches]]
+- [[Network Hardwear]]
 - 
