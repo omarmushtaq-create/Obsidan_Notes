@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unmanaged vs Manages Switches.md",
+                "file": "Managed Switches.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unmanaged vs Manages Switches"
+              "title": "Managed Switches"
             }
           },
           {
@@ -278,8 +278,10 @@
   },
   "active": "de9e2d89c568a772",
   "lastOpenFiles": [
-    "Switches.md",
     "Unmanaged vs Manages Switches.md",
+    "Managed Switches.md",
+    "Unmanaged switches.md",
+    "Switches.md",
     "Network Hardwear.md",
     "Module 5.md",
     "Network Interface Cards and MACS.md",
@@ -302,8 +304,6 @@
     "System tr.md",
     "System Memory.md",
     "Storage tr.md",
-    "RAID 6.md",
-    "RAID 5.md",
     "Notes/Notes/test.txt",
     "Notes/Notes",
     "Notes",

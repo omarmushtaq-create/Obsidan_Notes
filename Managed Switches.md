@@ -1,0 +1,5 @@
+- Larger companies require dditional functionality in their switches. These switches that are desigined for larger LANs are called **Managed Switches** 
+- Managed switches can work like unmanaged ones right out of the box, but an admin can connect to it with a management port to configure advanced setttings.
+- Most managed switches are designed to be installed into standard network racks.
+- A typical managed switch will come with 24 or 48 access ports.
+-  These switches have uplink ports allowing them to be connected to other switches.
