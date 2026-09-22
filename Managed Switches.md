@@ -3,3 +3,4 @@
 - Most managed switches are designed to be installed into standard network racks.
 - A typical managed switch will come with 24 or 48 access ports.
 -  These switches have uplink ports allowing them to be connected to other switches.
+- Configuring a managed switch can be performed over either a web or command line interface.

@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Managed Switches.md",
+                "file": "Network Hardwear.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Managed Switches"
+              "title": "Network Hardwear"
             }
           },
           {
@@ -278,10 +278,10 @@
   },
   "active": "de9e2d89c568a772",
   "lastOpenFiles": [
+    "Switches.md",
     "Unmanaged vs Manages Switches.md",
     "Managed Switches.md",
     "Unmanaged switches.md",
-    "Switches.md",
     "Network Hardwear.md",
     "Module 5.md",
     "Network Interface Cards and MACS.md",
