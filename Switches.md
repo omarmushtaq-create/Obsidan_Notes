@@ -1,0 +1,2 @@
+- Switches are used to connect multiple devices togther with Ethernet
+- When a device is connected to the switch, the switch adds its MAC adress 
