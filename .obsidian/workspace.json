@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POE (Power Over Ethernet).md",
+                "file": "Patch Panels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "POE (Power Over Ethernet)"
+              "title": "Patch Panels"
             }
           },
           {
@@ -279,9 +279,9 @@
   "active": "de9e2d89c568a772",
   "lastOpenFiles": [
     "Network Hardwear.md",
-    "POE (Power Over Ethernet).md",
     "Switches.md",
     "Unmanaged vs Manages Switches.md",
+    "POE (Power Over Ethernet).md",
     "Managed Switches.md",
     "Unmanaged switches.md",
     "Module 5.md",
