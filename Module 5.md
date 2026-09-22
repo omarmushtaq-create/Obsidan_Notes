@@ -1,3 +1,3 @@
 - [[Network types]]
-- [[Network Interface Cards]]
-- 
+- [[Network Interface Cards and MACS]]
+- [[Patch P]]
