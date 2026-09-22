@@ -15,4 +15,4 @@ A **patch panel** is a hardware assembly containing pre-wired ports on the front
 
 ### Primary Purpose & Benefit
 
-- **Flexible Management:** Makes it easy to change or reconfigure how any specific wall port location connects to network switch ports without altering the permanent cabling inside the walls.
+- **Flexible Management:** Makes it easy to change or reconfigure how any specific wall port location connects to network switch ports without altering the permanent cabling inside the walls. It also prevents wear and tear on switch ports.
