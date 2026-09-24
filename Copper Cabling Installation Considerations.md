@@ -17,4 +17,7 @@ Installation of cable must be compliant with local building regulations and fire
 
 
 - Outside plant (OSP) is cable run on the external walls of a building or between two buildings. This makes the cable vulnerable to different types of weathering:
+	-  Aerial cable is typically strung between two poles or anchors. The ultraviolet (UV) rays in sunlight plus exposure to more extreme and changing temperatures and damp conditions will degrade regular PVC.
+	- Conduit can provide more protection for buried cable runs. Such cable can still be exposed to extreme temperatures and damp conditions, however, so regular PVC cable should not be used.
+	- is laid and then covered in earth or cement/concrete.
 [^1]: CM (Communications Multipurpose) or CMG (General) cables are for general purpose use. CM/CMG cables are suitable for in-wall installation in residential or single-story commercial buildings. CM/CMG cables prevent fires from spreading to other parts of the building through the cable.
