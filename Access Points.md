@@ -48,5 +48,3 @@
     
     [^1]: A device that provides a connection between wireless devices and can connect to wired networks, implementing an infrastructure mode WLAN.
     
-
-You’ll get smarter responses and can upload files, images, and more.

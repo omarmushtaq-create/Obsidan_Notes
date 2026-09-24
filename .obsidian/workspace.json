@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Access Points.md",
+                "file": "Frequency Bands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Access Points"
+              "title": "Frequency Bands"
             }
           }
         ],
@@ -251,6 +251,7 @@
   "active": "bf2cd29ecd03a7ee",
   "lastOpenFiles": [
     "Module 5.md",
+    "Frequency Bands.md",
     "Access Points.md",
     "Network Cables.md",
     "Copper Cabling Connectors.md",
@@ -276,7 +277,6 @@
     "Untitled.canvas",
     "Lcd Types.md",
     "Module 1.md",
-    "In-Pane Switching (IPS).md",
     "Untitled.base",
     "Untitled 13.base",
     "Untitled 12.base",

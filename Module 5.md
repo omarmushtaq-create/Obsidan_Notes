@@ -2,4 +2,7 @@
 - [[Network Hardwear]]
 - [[Network Cables]]
 - [[Access Points]]
-- 
+- [[Frequency Bands]]
+
+
+
