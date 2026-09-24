@@ -39,7 +39,8 @@ Connectors use a small plastic or ceramic tip (**ferrule**) to keep the light li
 - Connectors break easily—do not plug and unplug them constantly.
     
 - Put **dust caps** over open ports and cable ends to keep dirt out.
-### Patch Cords & Handling
+
+**Patch Cords & Handling**
 
 - **Patch Cords:** Short fiber cables used to connect equipment. They can have matching connectors on both ends (like ST–ST) or mixed connectors (like ST–SC).
     
