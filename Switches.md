@@ -5,3 +5,4 @@
 This means that each switch port is considered a separate collision domain, and the negative effects of collisions are eliminated. Each computer has a full duplex connection to the network and can send and receive simultaneously at the full speed supported by the network cabling and NIC.
 
 [[Unmanaged vs Manages Switches]]
+ 
