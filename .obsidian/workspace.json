@@ -248,12 +248,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf2cd29ecd03a7ee",
+  "active": "b4197ab88cc2a1d7",
   "lastOpenFiles": [
-    "Network Cables.md",
-    "Optical Cabling.md",
-    "Copper Cabling Installation Considerations.md",
     "Network Taps.md",
+    "Network Interface Cards and MACS.md",
+    "Pixel Density.md",
+    "Power Supplies tr.md",
+    "Power Supplies.md",
+    "Optical Cabling.md",
+    "Network types.md",
+    "Module 2.md",
+    "MAN.md",
+    "Network Cables.md",
+    "Copper Cabling Installation Considerations.md",
     "Module 5.md",
     "Twisted Nematic (TN).md",
     "Untitled.canvas",
@@ -279,13 +286,6 @@
     "Switches.md",
     "Network Hardwear.md",
     "Patch Panels.md",
-    "Network Interface Cards and MACS.md",
-    "POE (Power Over Ethernet).md",
-    "Managed Switches.md",
-    "Unmanaged switches.md",
-    "Network types.md",
-    "SOHO.md",
-    "PAN.md",
-    "MAN.md"
+    "POE (Power Over Ethernet).md"
   ]
 }
