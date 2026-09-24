@@ -60,4 +60,3 @@ Every Wi-Fi device runs on a specific radio frequency, inside a bigger frequency
 - Frequency bands are **regulated** (government/radio rules).
 - There are **power output restrictions** -> another factor that limits range.
 
-#CompTIA #NetworkPlus #WiFi #Wireless
