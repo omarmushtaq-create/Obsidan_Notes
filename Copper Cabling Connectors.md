@@ -10,3 +10,6 @@ Twisted pair RJ45 connectors
 		- Pin 1 is wired to green/white, pin 2 is wired to green, pin 3 is wired to orange/white, and pin 6 is wired to orange.
 	- T568B:
 		- The position of the green and orange pairs is swapped over, so that orange terminates to 1 and 2 and green to 3 and 6.
+- When cabling a network, it is best to use the same termination method consistently. 
+- A straight-through Ethernet cable is wired with the same type of termination at both ends
+- Twisted-pair can also be used with **RJ11** connectors. Unlike the four-pair cable used with Ethernet, RJ11 is typically used to terminate two-pair cable, which is widely used in telephone systems and with broadband digital subscriber line (DSL) modems..

@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Copper Cabling Connectors.md",
+                "file": "Cableing Test Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Copper Cabling Connectors"
+              "title": "Cableing Test Tools"
             }
           }
         ],
@@ -265,6 +265,7 @@
   "active": "393cd6d62cd51004",
   "lastOpenFiles": [
     "Network Cables.md",
+    "Cableing Test Tools.md",
     "Copper Cabling Connectors.md",
     "CAT standerds.md",
     "Shielded Twisted Pair.md",
@@ -299,7 +300,6 @@
     "WALN.md",
     "Wan.md",
     "Lan.md",
-    "Module 4.md",
     "Untitled.canvas"
   ]
 }
