@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shielded Twisted Pair.md",
+                "file": "CAT standerds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shielded Twisted Pair"
+              "title": "CAT standerds"
             }
           }
         ],
@@ -265,6 +265,7 @@
   "active": "393cd6d62cd51004",
   "lastOpenFiles": [
     "Network Cables.md",
+    "CAT standerds.md",
     "Shielded Twisted Pair.md",
     "Module 5.md",
     "Lcd Types.md",
@@ -299,7 +300,6 @@
     "Lan.md",
     "Module 4.md",
     "RAID 1.md",
-    "x86.md",
     "Untitled.canvas"
   ]
 }
