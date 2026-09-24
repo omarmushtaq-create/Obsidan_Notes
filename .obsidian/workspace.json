@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CAT standerds.md",
+                "file": "Network Cables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CAT standerds"
+              "title": "Network Cables"
             }
           }
         ],
@@ -264,8 +264,8 @@
   },
   "active": "393cd6d62cd51004",
   "lastOpenFiles": [
-    "Network Cables.md",
     "CAT standerds.md",
+    "Network Cables.md",
     "Shielded Twisted Pair.md",
     "Module 5.md",
     "Lcd Types.md",
