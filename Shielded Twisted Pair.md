@@ -18,3 +18,5 @@
 
 **F/UTP cable with a foil screen surrounding unshielded pairs**
 -![A shielded twisted-pair cable with four color-coded wire pairs, a protective foil screen, and a surrounding insulated outer jacket.](https://cdn.testout.com/a-plus-220-120x-en-us/materials/resources/text/s_network_cable_types/3401-1637602878834-f-utp_cable.png.jpg)
+
+*Crosstalk interference is an unwanted effect where a signal traveling on one circuit or cable leaks into a neighboring circuit or cable, causing noise or data corruption*
