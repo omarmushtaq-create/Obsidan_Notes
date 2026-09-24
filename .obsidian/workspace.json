@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Copper Cabling Connectors.md",
+                "file": "Access Points.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Copper Cabling Connectors"
+              "title": "Access Points"
             }
           }
         ],
@@ -250,18 +250,19 @@
   },
   "active": "bf2cd29ecd03a7ee",
   "lastOpenFiles": [
+    "Module 5.md",
+    "Access Points.md",
     "Network Cables.md",
+    "Copper Cabling Connectors.md",
     "Cableing Test Tools.md",
     "Copper Cabling Installation Considerations.md",
     "Coaxial Cabling.md",
     "Shielded Twisted Pair.md",
     "Network Taps.md",
-    "Module 5.md",
     "Comptia A+ Exam.md",
     "Random important info.md",
     "Cpu Sockets.md",
     "CAT standerds.md",
-    "Copper Cabling Connectors.md",
     "Optical Cabling.md",
     "D rams.md",
     "Network Interface Cards and MACS.md",
@@ -285,7 +286,6 @@
     "Untitled 8.base",
     "Untitled 7.base",
     "Untitled 6.base",
-    "Untitled 5.base",
-    "Unmanaged vs Manages Switches.md"
+    "Untitled 5.base"
   ]
 }
