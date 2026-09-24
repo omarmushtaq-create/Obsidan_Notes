@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Copper Cabling Installation Considerations.md",
+                "file": "Optical Cabling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Copper Cabling Installation Considerations"
+              "title": "Optical Cabling"
             }
           }
         ],
@@ -251,6 +251,7 @@
   "active": "bf2cd29ecd03a7ee",
   "lastOpenFiles": [
     "Network Cables.md",
+    "Optical Cabling.md",
     "Copper Cabling Installation Considerations.md",
     "Network Taps.md",
     "Module 5.md",
@@ -285,7 +286,6 @@
     "Network types.md",
     "SOHO.md",
     "PAN.md",
-    "MAN.md",
-    "SAN.md"
+    "MAN.md"
   ]
 }

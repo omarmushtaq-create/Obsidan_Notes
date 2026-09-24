@@ -1,23 +1,28 @@
-Installation of cable must be compliant with local building regulations and fire codes. This means that specific cable types must be used in some installation scenarios.
+Compliance with local building regulations and fire codes dictates specific cable types for distinct installation environments.
 
-# Plenum Cable
+### Plenum Cable
 
-- A plenum space is a empty space in a building designed to carry heating, ventilation, and air conditioning (HVAC) systems.
-- Plenum space is typically a false ceiling, though it could also be constructed as a raised floor.
-- This space has also been used for communications wiring in some building designs.
-- Plenum space is an effective conduit for fire, as there is plenty of airflow and no fire breaks.
-- If the plenum space is used for heating, there may also be higher temperatures. Therefore, building regulations require the use of fire-retardant plenum cable in such spaces.
-- Plenum cable must not emit large amounts of smoke when burned, be self-extinguishing, and meet other strict fire safety standards.
-- General purpose (non-plenum) cabling uses PVC jackets and insulation.
-- Plenum-rated cable uses treated PVC or fluorinated ethylene polymer (FEP). This can make the cable less flexible, but the different materials used have no effect on bandwidth.
-- Data cable rated for plenum use under the US National Electrical Code (NEC) is marked as CMP on the jacket. General-purpose cables are marked as CMG [^1]or CM.
+A **plenum space** is an empty area designed for HVAC airflow (typically above a drop ceiling or under a raised floor) that is sometimes used for communications wiring. Because high airflow and a lack of fire breaks make plenum spaces an effective conduit for fire—and temperatures may be higher if used for heating—building regulations require fire-retardant plenum cabling.
 
+- **Safety Standards:** Plenum cable must be self-extinguishing, meet strict fire safety standards, and not emit large amounts of smoke when burned.
+    
+- **Material Composition:** General-purpose (non-plenum) cables use PVC jackets and insulation. Plenum cables use treated PVC or fluorinated ethylene polymer (FEP), which makes them less flexible but does not affect bandwidth.
+    
+- **NEC Cable Markings:**
+    
+    - **CMP:** Plenum-rated data cable (under the US National Electrical Code).
+        
+    - **CM / CMG:** General-purpose communications cable.
+        
 
-# Direct Burial
+### Outside Plant (OSP) & Direct Burial
 
+**Outside Plant (OSP)** cabling is run on external walls, between buildings, or underground, exposing it to environmental weathering. Regular PVC cable degrades under UV rays, extreme temperatures, and damp conditions, and should not be used.
 
-- Outside plant (OSP) is cable run on the external walls of a building or between two buildings. This makes the cable vulnerable to different types of weathering:
-	-  Aerial cable is typically strung between two poles or anchors. The ultraviolet (UV) rays in sunlight plus exposure to more extreme and changing temperatures and damp conditions will degrade regular PVC.
-	- Conduit can provide more protection for buried cable runs. Such cable can still be exposed to extreme temperatures and damp conditions, however, so regular PVC cable should not be used.
-	- is laid and then covered in earth or cement/concrete.
-[^1]: CM (Communications Multipurpose) or CMG (General) cables are for general purpose use. CM/CMG cables are suitable for in-wall installation in residential or single-story commercial buildings. CM/CMG cables prevent fires from spreading to other parts of the building through the cable.
+- **Aerial Cable:** Strung between poles or anchors; vulnerable to sunlight UV rays, extreme/fluctuating temperatures, and moisture.
+    
+- **Conduit:** Provides protection for buried cable runs, though cabling remains exposed to dampness and temperature extremes.
+    
+- **Direct Burial Cable:** Laid directly into the ground and covered in earth, cement, or concrete without protective conduit.
+    
+- **OSP Protection Features:** Uses special coatings against UV rays and abrasion, gel filling to protect against moisture and temperature extremes, and optional armor plating to prevent rodent damage.
