@@ -1,0 +1,4 @@
+- Is a standerd for WI-FI
+- Uses only the 5GHz frequency band
+- Maximum data rate of 54 Mbps.
+- 

@@ -1,8 +1,7 @@
 - [[Network types]]
 - [[Network Hardwear]]
 - [[Network Cables]]
-- [[Access Points]]
-- [[Frequency Bands]]
-
+- [[Wireless Networking Types]]
+- 
 
 
