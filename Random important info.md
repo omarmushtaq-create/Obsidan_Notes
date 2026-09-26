@@ -4,3 +4,7 @@
 4. You can use a paperclip to eject a disk from an optical drive that doesn't work
 5. Serial advanced technology attachment (SATA) interface SSDs are usually B keyed. An M.2 socket may support both types of drive or only one on the motherboard. The technician should check the documentation.
 6. An RJ-45 is used to terminate a 8P8C
+7. The 802.11ac wireless network standard increases bandwidth and communication speeds using the following technologies:
+		- MU-MIMO is an enhancement to MIMO that allows multiple users to use the same channel. In addition to adding MU-MIMO, 802.11ac doubled the number of MIMO radio streams from four to eight.
+	- Channel bonding combines two non-overlapping 20 MHz channels into a single 40 MHz channel, resulting in slightly more than double the bandwidth.
+8. 
