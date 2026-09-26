@@ -1,4 +1,4 @@
--  [[Access Points]]
+- [[Access Points]]
 - [[Frequency Bands]]
 - [[IEEE 802.11a]]
 - [[IEEE 802.11b-g]]

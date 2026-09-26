@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wireless Networking Types.md",
+                "file": "WI-Fi Analyzers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wireless Networking Types"
+              "title": "WI-Fi Analyzers"
             }
           }
         ],
@@ -232,9 +232,13 @@
   },
   "active": "14ee37a6cb322ae1",
   "lastOpenFiles": [
-    "Bluetooth, RFID, and NFC.md",
     "Wireless Networking Types.md",
     "Long ranged fixed wireless.md",
+    "Bluetooth, RFID, and NFC.md",
+    "IEEE 802.11b-g.md",
+    "802.11n.md",
+    "Frequency Bands.md",
+    "Access Points.md",
     "WI-Fi Analyzers.md",
     "7575-1638430456803-metageek_inssider_wifi_analyzer_privacy_blurred-01.png",
     "Wireless LAN Installation Considerations.md",
@@ -251,15 +255,11 @@
     "Network Taps.md",
     "Network Cables.md",
     "Managed Switches.md",
-    "IEEE 802.11b-g.md",
     "IEEE 802.11a.md",
-    "Frequency Bands.md",
     "Copper Cabling Installation Considerations.md",
     "Copper Cabling Connectors.md",
     "Coaxial Cabling.md",
     "Cableing Test Tools.md",
-    "CAT standerds.md",
-    "Access Points.md",
     "Hard Drives"
   ]
 }
