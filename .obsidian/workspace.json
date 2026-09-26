@@ -6,6 +6,7 @@
       {
         "id": "bd3b6a9dd1ccb1b3",
         "type": "tabs",
+        "dimension": 50.69637883008357,
         "children": [
           {
             "id": "a0e44946fe746329",
@@ -27,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vertical Alignment (VA).md",
+                "file": "Long ranged fixed wireless.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vertical Alignment (VA)"
+              "title": "Long ranged fixed wireless"
             }
           }
         ],
@@ -41,6 +42,7 @@
       {
         "id": "d099e597743c1c38",
         "type": "tabs",
+        "dimension": 49.30362116991643,
         "children": [
           {
             "id": "bfb40a708949e72d",
@@ -197,8 +199,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "33f74429bb4d6de2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -219,32 +232,34 @@
   },
   "active": "14ee37a6cb322ae1",
   "lastOpenFiles": [
-    "Wan.md",
-    "WALN.md",
-    "SOHO.md",
-    "SAN.md",
-    "PAN.md",
-    "Network types.md",
+    "Wireless Networking Types.md",
+    "Long ranged fixed wireless.md",
+    "WI-Fi Analyzers.md",
+    "7575-1638430456803-metageek_inssider_wifi_analyzer_privacy_blurred-01.png",
+    "Wireless LAN Installation Considerations.md",
     "Module 5.md",
-    "MAN.md",
-    "Lan.md",
-    "Lcd Types.md",
-    "In-Pane Switching (IPS).md",
     "Vertical Alignment (VA).md",
-    "Organic Light-Emitting Diode (Oled).md",
-    "Module 1.md",
-    "Random important info.md",
-    "Comptia A+ Exam.md",
-    "Module 2.md",
-    "Module 3.md",
-    "Cables (2.1).md",
-    "Legacy Cables (2.3).md",
-    "Serial Cables.md",
-    "Memory Cards.md",
-    "Portable Storage.md",
-    "Storage Devices.md",
-    "x64.md",
-    "Twisted Nematic (TN).md",
+    "conflict-files-obsidian-git.md",
+    "Wi-Fi 7 (802.11be).md",
+    "Wi-Fi 5 and Wi-Fi 6.md",
+    "Untitled.canvas",
+    "Unmanaged switches.md",
+    "Shielded Twisted Pair.md",
+    "POE (Power Over Ethernet).md",
+    "Optical Cabling.md",
+    "Network Taps.md",
+    "Network Cables.md",
+    "Managed Switches.md",
+    "IEEE 802.11b-g.md",
+    "IEEE 802.11a.md",
+    "Frequency Bands.md",
+    "Copper Cabling Installation Considerations.md",
+    "Copper Cabling Connectors.md",
+    "Coaxial Cabling.md",
+    "Cableing Test Tools.md",
+    "CAT standerds.md",
+    "Access Points.md",
+    "802.11n.md",
     "Hard Drives"
   ]
 }
