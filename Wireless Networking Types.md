@@ -8,6 +8,7 @@
 - [[Wireless LAN Installation Considerations]]
 - [[WI-Fi Analyzers]]
 - [[Long ranged fixed wireless]]
+- [[Bluetooth, RFID, and NFC]]
 - 
 
 

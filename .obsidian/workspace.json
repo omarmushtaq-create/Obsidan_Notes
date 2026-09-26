@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Long ranged fixed wireless.md",
+                "file": "Wireless Networking Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Long ranged fixed wireless"
+              "title": "Wireless Networking Types"
             }
           }
         ],
@@ -232,6 +232,7 @@
   },
   "active": "14ee37a6cb322ae1",
   "lastOpenFiles": [
+    "Bluetooth, RFID, and NFC.md",
     "Wireless Networking Types.md",
     "Long ranged fixed wireless.md",
     "WI-Fi Analyzers.md",
@@ -259,7 +260,6 @@
     "Cableing Test Tools.md",
     "CAT standerds.md",
     "Access Points.md",
-    "802.11n.md",
     "Hard Drives"
   ]
 }
