@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wi-Fi 5 (802.11ac) and Wi-Fi 6 (802.11ax).md",
+                "file": "Optical Cabling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wi-Fi 5 (802.11ac) and Wi-Fi 6 (802.11ax)"
+              "title": "Optical Cabling"
             }
           }
         ],
@@ -232,21 +232,21 @@
   },
   "active": "14ee37a6cb322ae1",
   "lastOpenFiles": [
-    "IEEE 802.11 Standerds.md",
-    "Wi-Fi 5 (802.11ac) and Wi-Fi 6 (802.11ax).md",
-    "Wireless Networking Types.md",
+    "Network Cables.md",
+    "Coaxial Cabling.md",
+    "Copper Cabling Installation Considerations.md",
+    "Optical Cabling.md",
     "Module 5.md",
+    "Wireless Networking Types.md",
+    "IEEE 802.11 Standerds.md",
+    "IEEE 802.11n.md",
+    "Wi-Fi 5 (802.11ac) and Wi-Fi 6 (802.11ax).md",
+    "IEEE 802.11b-g.md",
+    "IEEE 802.11a.md",
     "Network types.md",
     "Wan.md",
     "Network Hardwear.md",
     "POE (Power Over Ethernet).md",
-    "IEEE 802.11b-g.md",
-    "IEEE 802.11n.md",
-    "IEEE 802.11a.md",
-    "Network Cables.md",
-    "Coaxial Cabling.md",
-    "Optical Cabling.md",
-    "Copper Cabling Installation Considerations.md",
     "Network Taps.md",
     "Troubleshooting.md",
     "Cableing Test Tools.md",

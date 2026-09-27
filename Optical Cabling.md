@@ -36,7 +36,7 @@ Connectors use a small plastic or ceramic tip (**ferrule**) to keep the light li
 
 - Fiber patch cables can have the same connector on both ends (like ST-to-ST) or different ones (like ST-to-SC).
     
-- Connectors break easily—do not plug and unplug them constantly.
+- Connectors break easily do not plug and unplug them constantly.
     
 - Put **dust caps** over open ports and cable ends to keep dirt out.
 
@@ -44,6 +44,6 @@ Connectors use a small plastic or ceramic tip (**ferrule**) to keep the light li
 
 - **Patch Cords:** Short fiber cables used to connect equipment. They can have matching connectors on both ends (like ST–ST) or mixed connectors (like ST–SC).
     
-- **Care & Damage:** Fiber connectors break easily—do not plug and unplug them constantly.
+- **Care & Damage:** Fiber connectors break easily do not plug and unplug them constantly.
     
 - **Dust Caps:** Always cover unused connectors and ports with dust caps to keep dirt out.
