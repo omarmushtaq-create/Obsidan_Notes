@@ -8,3 +8,4 @@
 		- MU-MIMO is an enhancement to MIMO that allows multiple users to use the same channel. In addition to adding MU-MIMO, 802.11ac doubled the number of MIMO radio streams from four to eight.
 	- Channel bonding combines two non-overlapping 20 MHz channels into a single 40 MHz channel, resulting in slightly more than double the bandwidth.
 8. IEEE 802.11 is wifi and IEE 802.3 is ethernet
+9. A digital subscriber line (DSL) uses the higher frequencies available in copper telephone lines as a communications channel. The two major "flavors" of this type of connection are asymmetrical and symmetrical.
