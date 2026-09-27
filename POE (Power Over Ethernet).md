@@ -1,4 +1,4 @@
-
+w
 - POE means supplying power over normal data cables such as a voice over IP (VoIP) handset, camera, or wireless access point.
 - PoE is defined in several IEEE **standards**:
 
