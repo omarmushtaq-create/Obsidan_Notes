@@ -233,15 +233,16 @@
   "active": "14ee37a6cb322ae1",
   "lastOpenFiles": [
     "IEEE 802.11 Standerds.md",
-    "IEEE 802.11b-g.md",
-    "IEEE 802.11n.md",
-    "IEEE 802.11a.md",
     "Wi-Fi 5 (802.11ac) and Wi-Fi 6 (802.11ax).md",
     "Wireless Networking Types.md",
     "Module 5.md",
+    "Network types.md",
+    "Wan.md",
     "Network Hardwear.md",
     "POE (Power Over Ethernet).md",
-    "Network types.md",
+    "IEEE 802.11b-g.md",
+    "IEEE 802.11n.md",
+    "IEEE 802.11a.md",
     "Network Cables.md",
     "Coaxial Cabling.md",
     "Optical Cabling.md",
@@ -259,7 +260,6 @@
     "7575-1638430456803-metageek_inssider_wifi_analyzer_privacy_blurred-01.png",
     "iv_wireless_networks_2.jpg",
     "Bluetooth, RFID, and NFC.md",
-    "WI-Fi Analyzers.md",
     "Untitled.canvas",
     "Hard Drives"
   ]
