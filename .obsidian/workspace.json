@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internet Connection Types.md",
+                "file": "Internet Connection Types and Modems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Internet Connection Types"
+              "title": "Internet Connection Types and Modems"
             }
           }
         ],
@@ -248,12 +248,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4197ab88cc2a1d7",
+  "active": "bf2cd29ecd03a7ee",
   "lastOpenFiles": [
-    "WI-Fi Analyzers.md",
-    "7575-1638430456803-metageek_inssider_wifi_analyzer_privacy_blurred-01.png.md",
+    "Network Cables.md",
+    "Internet Connection Types and Modems.md",
     "Internet Connection Types.md",
     "Module 6.md",
+    "WI-Fi Analyzers.md",
+    "7575-1638430456803-metageek_inssider_wifi_analyzer_privacy_blurred-01.png.md",
     "Hard Drives.md",
     "Comptia A+ Exam.md",
     "Cableing Test Tools.md",
@@ -266,7 +268,6 @@
     "Wi-Fi 5 (802.11ac) and Wi-Fi 6 (802.11ax).md",
     "Long ranged fixed wireless.md",
     "Bluetooth, RFID, and NFC.md",
-    "Network Cables.md",
     "Wireless LAN Installation Considerations.md",
     "Wireless Networking Types.md",
     "Wi-Fi 7 (802.11be).md",
@@ -277,7 +278,6 @@
     "Frequency Bands.md",
     "Access Points.md",
     "Copper Cabling Connectors.md",
-    "Copper Cabling Installation Considerations.md",
     "Untitled.canvas",
     "Untitled.base",
     "Untitled 13.base",
