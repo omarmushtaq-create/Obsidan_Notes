@@ -62,3 +62,6 @@
 | Modem to provider | RJ11 | F-type (coax) |
 | Network name | PSTN | CATV / HFC |
 
+
+A cable modem: The RJ45 port connects to the local network router, while the coax port connects to the service provider network
+![A modem with a cable port, a reset button, an Ethernet port, and a Power port.](https://cdn.testout.com/a-plus-220-120x-en-us/materials/resources/text/s_internet_connection_types/9885-1637606298912-760aad50-59bd-48a7-a313-2601c49cfd0c2376-1624343906232-n10-008_cable_modem.png)
