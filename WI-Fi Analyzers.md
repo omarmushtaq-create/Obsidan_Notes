@@ -76,5 +76,3 @@
 - SNR = Signal - Noise (bigger SNR = better)
 - Even with a fast client (Wi-Fi 6), speed is limited by the AP's supported standard
 
-### Metageek inSSIDer Wi-Fi analyzer software showing nearby access points
-![[7575-1638430456803-metageek_inssider_wifi_analyzer_privacy_blurred-01.png]]
