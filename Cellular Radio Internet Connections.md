@@ -85,9 +85,9 @@
 
 ## Quick Comparison Table
 
-| Generation | Key Tech      | SIM Required | Notes                                    |
-| ---------- | ------------- | ------------ | ---------------------------------------- |
-| 3G         | GSM or CDMA   | GSM only     | Up to 3 Mbps (or 42 Mbps w/ HSPA+)       |
-|            | LTE           | Yes (all)    | Converged standard for GSM + CDMA        |
-| 4G         |               |              |                                          |
-| 5G         | mMIMO, mmWave | Yes          | Complex due to short range of high bands |
+| Generation | Key Tech      | SIM Required | Notes                                            |
+| ---------- | ------------- | ------------ | ------------------------------------------------ |
+| 2G         |               |              | 14.4 Kbps                                        |
+| 3G         | GSM or CDMA   | GSM only     | Up to 3 Mbps (or 42 Mbps w/ HSPA+)               |
+| 4G         | LTE           | Yes (all)    | Converged standard for GSM + CDMA 300 Mbps       |
+| 5G         | mMIMO, mmWave | Yes          | Complex due to short range of high bands 10 Gbps |
