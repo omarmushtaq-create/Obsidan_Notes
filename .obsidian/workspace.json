@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCP-IP Layers.md",
+                "file": "IPv4 Addressing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP-IP Layers"
+              "title": "IPv4 Addressing"
             }
           }
         ],
@@ -237,6 +237,7 @@
   "active": "6771227aff8dac9f",
   "lastOpenFiles": [
     "TCP-IP Concepts.md",
+    "IPv4 Addressing.md",
     "TCP-IP Layers.md",
     "TCP-IP.md",
     "Module 6.md",
@@ -261,7 +262,6 @@
     "Module 2.md",
     "Module 3.md",
     "Module 4.md",
-    "Module 5.md",
     "iv_wireless_networks_2.jpg",
     "IEEE 802.11b",
     "Untitled.canvas",

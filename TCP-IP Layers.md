@@ -76,4 +76,3 @@
 | **Transport** | Manage multiple app connections | Segment | TCP, UDP |
 | **Application** | High-level services | Data | HTTP, SMTP, etc. |
 
-#CompTIA #APlus #Networking #TCPIP #OSILayers #TCP #UDP #ARP
