@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fixed Wireless Internet Access.md",
+                "file": "Cellular Radio Internet Connections.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fixed Wireless Internet Access"
+              "title": "Cellular Radio Internet Connections"
             }
           }
         ],
@@ -234,8 +234,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6771227aff8dac9f",
+  "active": "b4197ab88cc2a1d7",
   "lastOpenFiles": [
+    "Cellular Radio Internet Connections.md",
     "Internet Connection Types.md",
     "Fixed Wireless Internet Access.md",
     "Fiber to the Curb and Fiber to the Premises.md",
@@ -262,7 +263,6 @@
     "iv_wireless_networks_2.jpg",
     "Wi-Fi 5 (802.11ac) and Wi-Fi 6 (802.11ax).md",
     "Long ranged fixed wireless.md",
-    "Bluetooth, RFID, and NFC.md",
     "IEEE 802.11b",
     "Untitled.canvas",
     "Untitled.base",
