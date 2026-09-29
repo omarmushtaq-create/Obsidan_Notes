@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cellular Radio Internet Connections.md",
+                "file": "Firewalls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cellular Radio Internet Connections"
+              "title": "Firewalls"
             }
           }
         ],
@@ -234,10 +234,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4197ab88cc2a1d7",
+  "active": "6771227aff8dac9f",
   "lastOpenFiles": [
-    "Cellular Radio Internet Connections.md",
     "Internet Connection Types.md",
+    "Firewalls.md",
+    "Routers.md",
+    "Cellular Radio Internet Connections.md",
+    "CPU.md",
     "Fixed Wireless Internet Access.md",
     "Fiber to the Curb and Fiber to the Premises.md",
     "Module 6.md",
@@ -259,10 +262,7 @@
     "IEEE 802.11 Standerds.md",
     "IEEE 802.11a.md",
     "IEEE 802.11b-g.md",
-    "IEEE 802.11n.md",
     "iv_wireless_networks_2.jpg",
-    "Wi-Fi 5 (802.11ac) and Wi-Fi 6 (802.11ax).md",
-    "Long ranged fixed wireless.md",
     "IEEE 802.11b",
     "Untitled.canvas",
     "Untitled.base",
