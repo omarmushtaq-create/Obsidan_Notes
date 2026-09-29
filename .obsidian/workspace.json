@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCP-IP.md",
+                "file": "TCP-IP Layers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP-IP"
+              "title": "TCP-IP Layers"
             }
           }
         ],
@@ -237,6 +237,7 @@
   "active": "6771227aff8dac9f",
   "lastOpenFiles": [
     "TCP-IP Concepts.md",
+    "TCP-IP Layers.md",
     "TCP-IP.md",
     "Module 6.md",
     "Internet Connection Types.md",
@@ -261,7 +262,6 @@
     "Module 3.md",
     "Module 4.md",
     "Module 5.md",
-    "Network Cables.md",
     "iv_wireless_networks_2.jpg",
     "IEEE 802.11b",
     "Untitled.canvas",
