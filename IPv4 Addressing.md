@@ -100,3 +100,5 @@ netsh interface ip add dns name="InterfaceName" 10.23.40.32 index=2
 - Range: 0.0.0.0 to 255.255.255.255 (some reserved)
 - `netsh interface ip set address` = configure static IP
 - `netsh interface ip set dns` / `add dns` = configure DNS servers
+- [[https://www.omnicalculator.com/other/ip-subnet]]
+- 
