@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Static Versus Dynamic Host Address Configuration.md",
+                "file": "TCP-IP Layers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Static Versus Dynamic Host Address Configuration"
+              "title": "TCP-IP Layers"
             }
           }
         ],
@@ -233,9 +233,10 @@
   "active": "14ee37a6cb322ae1",
   "lastOpenFiles": [
     "TCP-IP Concepts.md",
-    "IPv6 Addressing.md",
-    "SOHO Router Configuration.md",
     "Static Versus Dynamic Host Address Configuration.md",
+    "SOHO Router Configuration.md",
+    "TCP-IP Layers.md",
+    "IPv6 Addressing.md",
     "IPv4 Host Address Configuration.md",
     "Public and Private Addressing.md",
     "Public and Private Adressing.md",
@@ -243,7 +244,6 @@
     "Module 6.md",
     "Optical Cabling.md",
     "TCP-IP.md",
-    "TCP-IP Layers.md",
     "Routers.md",
     "Internet Connection Types.md",
     "Internet Connection Types and Modems.md",
