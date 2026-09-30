@@ -2,4 +2,5 @@
 - [[TCP-IP Layers]]
 - [[IPv4 Addressing]]
 - [[IPv4 Forwarding]]
+- [[Public and Private Addressing]]
 - 
