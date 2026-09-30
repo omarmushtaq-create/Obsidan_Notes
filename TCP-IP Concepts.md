@@ -6,4 +6,5 @@
 - [[IPv4 Host Address Configuration]]
 - [[Static Versus Dynamic Host Address Configuration]]
 - [[SOHO Router Configuration]]
+- [[IPv6 Addressing]]
 - 
