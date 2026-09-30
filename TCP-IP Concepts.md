@@ -3,4 +3,6 @@
 - [[IPv4 Addressing]]
 - [[IPv4 Forwarding]]
 - [[Public and Private Addressing]]
+- [[IPv4 Host Address Configuration]]
+- [[Static Versus Dynamic Host Address Configuration]]
 - 
