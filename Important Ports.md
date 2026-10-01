@@ -1,18 +1,18 @@
-|Port#|TCP/UDP|Protocol|Purpose|
-|---|---|---|---|
-|20|TCP|File Transfer Protocol (FTP)—Data connection|Make files available for download across a network (data connection port)|
-|21|TCP|File Transfer Protocol (FTP)—Control connection|Make files available for download across a network (control connection port)|
-|22|TCP|Secure Shell (SSH)|Make a secure connection to the command-line interface of a server|
-|23|TCP|Telnet|Make an unsecure connection to the command-line interface of a server|
-|25|TCP|Simple Mail Transfer Protocol (SMTP)|Transfer email messages across a network|
-|53|TCP/UDP|Domain Name System (DNS)|Facilitate identification of hosts by name alongside IP addressing|
-|67|UDP|Dynamic Host Configuration Protocol (DHCP) Server|Provision an IP address configuration to clients|
-|68|UDP|DHCP Client|Request a dynamic IP address configuration from a server|
-|80|TCP|HyperText Transfer Protocol (HTTP)|Provision unsecure websites and web services|
-|110|TCP|Post Office Protocol (POP)|Retrieve email messages from a server mailbox|
-|137-139|UDP/TCP|NetBIOS over TCP/IP|Support networking features of legacy Windows versions|
-|143|TCP|Internet Mail Access Protocol (IMAP)|Read and manage mail messages on a server mailbox|
-|389|TCP|Lightweight Directory Access Protocol (LDAP)|Query information about network users and resources|
-|443|TCP|HTTP Secure (HTTPS)|Provision secure websites and services|
-|445|TCP|Server Message Block (SMB)|Implement Windows-compatible file and printer sharing services on a local network (also sometimes referred to as Common Internet File System [CIFS])|
-|3389|TCP|Remote Desktop Protocol (RDP)|Make a secure connection to the graphical desktop of a computer|
+| Port#   | TCP/UDP | Protocol                                          | Purpose                                                                                                                                              |
+| ------- | ------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 20      | TCP     | File Transfer Protocol (FTP)—Data connection      | Make files available for download across a network (data connection port)                                                                            |
+| 21      | TCP     | File Transfer Protocol (FTP)—Control connection   | Make files available for download across a network (control connection port)                                                                         |
+| 22      | TCP     | Secure Shell (SSH)                                | Make a secure connection to the command-line interface of a server                                                                                   |
+| 23      | TCP     | Telnet                                            | Make an unsecure connection to the command-line interface of a server                                                                                |
+| 25      | TCP     | Simple Mail Transfer Protocol (SMTP)              | Transfer email messages across a network                                                                                                             |
+| 53      | TCP/UDP | Domain Name System (DNS)                          | Facilitate identification of hosts by name alongside IP addressing                                                                                   |
+| 67      | UDP     | Dynamic Host Configuration Protocol (DHCP) Server | Provision an IP address configuration to clients                                                                                                     |
+| 68      | UDP     | DHCP Client                                       | Request a dynamic IP address configuration from a server                                                                                             |
+| 80      | TCP     | HyperText Transfer Protocol (HTTP)                | Provision unsecure websites and web services                                                                                                         |
+| 110     | TCP     | Post Office Protocol (POP)                        | Retrieve email messages from a server mailbox                                                                                                        |
+| 137-139 | UDP/TCP | NetBIOS over TCP/IP                               | Support networking features of legacy Windows versions                                                                                               |
+| 143     | TCP     | Internet Mail Access Protocol (IMAP)              | Read and manage mail messages on a server mailbox                                                                                                    |
+| 389     | TCP     | Lightweight Directory Access Protocol (LDAP)      | Query information about network users and resources                                                                                                  |
+| 443     | TCP     | HTTP Secure (HTTPS)                               | Provision secure websites and services                                                                                                               |
+| 445     | TCP     | Server Message Block (SMB)                        | Implement Windows-compatible file and printer sharing services on a local network (also sometimes referred to as Common Internet File System [CIFS]) |
+| 3389    | TCP     | Remote Desktop Protocol (RDP)                     | Make a secure connection to the graphical desktop of a computer                                                                                      |
