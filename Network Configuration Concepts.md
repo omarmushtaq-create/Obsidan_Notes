@@ -4,4 +4,5 @@
 - [[DNS Record Types]]
 - [[DNS Spam Management Records]]
 - [[Virtual LANs]]
+- [[Virtual Private Networks]]
 - 
