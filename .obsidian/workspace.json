@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols and Ports.md",
+                "file": "Transmisson Controll Protocol (TCP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protocols and Ports"
+              "title": "Transmisson Controll Protocol (TCP)"
             }
           }
         ],
@@ -237,6 +237,7 @@
   "active": "6771227aff8dac9f",
   "lastOpenFiles": [
     "Network Communications.md",
+    "Transmisson Controll Protocol (TCP).md",
     "Protocols and Ports.md",
     "Module 6.md",
     "IPv4 Addressing.md",
@@ -261,7 +262,6 @@
     "Copper Cabling Connectors.md",
     "Copper Cabling Installation Considerations.md",
     "CPU.md",
-    "CPU architecture.md",
     "iv_wireless_networks_2.jpg",
     "IEEE 802.11b",
     "Untitled.canvas",
