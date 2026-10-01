@@ -1,4 +1,5 @@
 - [[DHCP Functions]]
 - [[Domain Name System]]
 - [[DNS Queries]]
+- [[DNS Record Types]]
 - 

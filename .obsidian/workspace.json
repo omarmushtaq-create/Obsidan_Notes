@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNS Queries.md",
+                "file": "DNS Record Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS Queries"
+              "title": "DNS Record Types"
             }
           }
         ]
@@ -217,11 +217,14 @@
   },
   "active": "a0e44946fe746329",
   "lastOpenFiles": [
-    "Pasted image 20261001171936.png",
     "Network Configuration Concepts.md",
-    "DNS Queries.md",
-    "Domain Name System.md",
+    "DNS Record Types.md",
     "Module 6.md",
+    "Network Communications.md",
+    "Important Ports.md",
+    "DNS Queries.md",
+    "Pasted image 20261001171936.png",
+    "Domain Name System.md",
     "aplus_fig06_04_02.png",
     "aplus_fig06_04_02-1.png",
     "aplus_fig06_04_02-2.png",
@@ -229,12 +232,10 @@
     "Troubleshooting.md",
     "7174-1637618819177-windows_dhcp_server_showing_address_leases.png",
     "3987-1637608028820-e5266ee1-3277-49b9-a0c0-706ea720229c863-1627647472796-net_fig10_01.png",
-    "Network Communications.md",
     "TCP-IP Layers.md",
     "User Datagram Protocol (UDP).md",
     "Transmisson Controll Protocol (TCP).md",
     "Protocols and Ports.md",
-    "Important Ports.md",
     "TCP-IP Concepts.md",
     "IPv6 Addressing.md",
     "Static Versus Dynamic Host Address Configuration.md",
