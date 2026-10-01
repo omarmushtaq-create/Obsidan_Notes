@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNS Spam Management Records.md",
+                "file": "Important Ports.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS Spam Management Records"
+              "title": "Important Ports"
             }
           }
         ]
@@ -217,14 +217,14 @@
   },
   "active": "a0e44946fe746329",
   "lastOpenFiles": [
+    "Network Communications.md",
+    "Module 6.md",
     "Network Configuration Concepts.md",
+    "DNS Spam Management Records.md",
     "Virtual Private Networks.md",
     "Virtual LANs.md",
-    "DNS Spam Management Records.md",
     "Public and Private Adressing.md",
     "DNS Record Types.md",
-    "Module 6.md",
-    "Network Communications.md",
     "Important Ports.md",
     "DNS Queries.md",
     "Pasted image 20261001171936.png",
