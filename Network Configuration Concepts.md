@@ -1,2 +1,3 @@
 - [[DHCP Functions]]
+- [[Domain Name System]]
 - 
