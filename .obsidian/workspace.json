@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain Name System.md",
+                "file": "DNS Queries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Domain Name System"
+              "title": "DNS Queries"
             }
           }
         ]
@@ -217,10 +217,15 @@
   },
   "active": "a0e44946fe746329",
   "lastOpenFiles": [
+    "Pasted image 20261001171936.png",
     "Network Configuration Concepts.md",
+    "DNS Queries.md",
     "Domain Name System.md",
-    "DHCP Functions.md",
     "Module 6.md",
+    "aplus_fig06_04_02.png",
+    "aplus_fig06_04_02-1.png",
+    "aplus_fig06_04_02-2.png",
+    "DHCP Functions.md",
     "Troubleshooting.md",
     "7174-1637618819177-windows_dhcp_server_showing_address_leases.png",
     "3987-1637608028820-e5266ee1-3277-49b9-a0c0-706ea720229c863-1627647472796-net_fig10_01.png",
@@ -243,8 +248,6 @@
     "Routers.md",
     "Internet Connection Types.md",
     "Internet Connection Types and Modems.md",
-    "IPv4 Addressing.md",
-    "Fixed Wireless Internet Access.md",
     "7575-1638430456803-metageek_inssider_wifi_analyzer_privacy_blurred-01.png",
     "iv_wireless_networks_2.jpg",
     "Untitled.canvas",

@@ -74,13 +74,13 @@ pc.corp.515support.com.
 
 ```
 
-| Part | Meaning |
-|------|---------|
-| `pc` | Host name (most specific) |
-| `corp` | Subdomain |
-| `515support` | Domain name |
-| `com` | TLD |
-| `.` (trailing period) | Root (least specific) |
+| Part                  | Meaning                   |
+| --------------------- | ------------------------- |
+| `pc`                  | Host name (most specific) |
+| `corp`                | Subdomain                 |
+| `515support`          | Domain name               |
+| `com`                 | TLD                       |
+| `.` (trailing period) | Root (least specific)     |
 
 > **Note:** The trailing period at the end of a URL can be left off - it's just assumed to be there (represents the root zone).
 
@@ -93,3 +93,6 @@ pc.corp.515support.com.
 - Hierarchy: **Root (.) -> TLD -> Domain -> Subdomain -> Host**
 - TLD types: **generic** (.com), **sponsored** (.gov/.edu), **country code** (.uk/.ca)
 - **ICANN** manages DNS + generic TLDs; country TLDs managed by local government-appointed orgs
+
+DNS hierarchy
+![[aplus_fig06_04_02-2.png]]
