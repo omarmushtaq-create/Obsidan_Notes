@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mailbox Servers.md",
+                "file": "Remote Terminal Access Servers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mailbox Servers"
+              "title": "Remote Terminal Access Servers"
             }
           }
         ]
@@ -218,6 +218,8 @@
   "active": "a0e44946fe746329",
   "lastOpenFiles": [
     "Networked host services.md",
+    "Remote Terminal Access Servers.md",
+    "Directory and Authentication Servers.md",
     "Mailbox Servers.md",
     "Mail Servers.md",
     "Hypertext Transfer Protocol Secure.md",
@@ -242,8 +244,6 @@
     "Cellular Radio Internet Connections.md",
     "Internet Connection Types and Modems.md",
     "Important Ports.md",
-    "Network Configuration Concepts.md",
-    "DNS Spam Management Records.md",
     "Pasted image 20261001171936.png",
     "aplus_fig06_04_02.png",
     "aplus_fig06_04_02-1.png",
