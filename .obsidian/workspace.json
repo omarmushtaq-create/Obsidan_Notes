@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File/File-Print Servers.md",
+                "file": "Hypertext Transfer Protocol Secure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File-Print Servers"
+              "title": "Hypertext Transfer Protocol Secure"
             }
           }
         ]
@@ -218,6 +218,8 @@
   "active": "a0e44946fe746329",
   "lastOpenFiles": [
     "Networked host services.md",
+    "Hypertext Transfer Protocol Secure.md",
+    "Web Servers.md",
     "File/File-Print Servers.md",
     "File",
     "Module 7.md",
@@ -242,8 +244,6 @@
     "DNS Spam Management Records.md",
     "Virtual Private Networks.md",
     "Virtual LANs.md",
-    "Public and Private Adressing.md",
-    "DNS Record Types.md",
     "Pasted image 20261001171936.png",
     "aplus_fig06_04_02.png",
     "aplus_fig06_04_02-1.png",
