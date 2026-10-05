@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public and Private Addressing.md",
+                "file": "File/File-Print Servers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Public and Private Addressing"
+              "title": "File-Print Servers"
             }
           }
         ]
@@ -217,13 +217,18 @@
   },
   "active": "a0e44946fe746329",
   "lastOpenFiles": [
+    "Networked host services.md",
+    "File/File-Print Servers.md",
+    "File",
+    "Module 7.md",
+    "Comptia A+ Exam.md",
+    "Public and Private Addressing.md",
     "TCP-IP Concepts.md",
     "Module 6.md",
     "Internet Connection Types.md",
     "Digital Subscriber Line Modems.md",
     "Cable Modems.md",
     "Fiber to the Curb and Fiber to the Premises.md",
-    "Public and Private Addressing.md",
     "IPv4 Forwarding.md",
     "TCP-IP Layers.md",
     "TCP-IP.md",
@@ -239,14 +244,10 @@
     "Virtual LANs.md",
     "Public and Private Adressing.md",
     "DNS Record Types.md",
-    "DNS Queries.md",
     "Pasted image 20261001171936.png",
-    "Domain Name System.md",
     "aplus_fig06_04_02.png",
     "aplus_fig06_04_02-1.png",
     "aplus_fig06_04_02-2.png",
-    "DHCP Functions.md",
-    "Troubleshooting.md",
     "7174-1637618819177-windows_dhcp_server_showing_address_leases.png",
     "3987-1637608028820-e5266ee1-3277-49b9-a0c0-706ea720229c863-1627647472796-net_fig10_01.png",
     "7575-1638430456803-metageek_inssider_wifi_analyzer_privacy_blurred-01.png",
