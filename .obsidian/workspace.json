@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Remote Terminal Access Servers.md",
+                "file": "Network Monitoring Servers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Remote Terminal Access Servers"
+              "title": "Network Monitoring Servers"
             }
           }
         ]
@@ -218,6 +218,8 @@
   "active": "a0e44946fe746329",
   "lastOpenFiles": [
     "Networked host services.md",
+    "Network Monitoring Servers.md",
+    "Module 7.md",
     "Remote Terminal Access Servers.md",
     "Directory and Authentication Servers.md",
     "Mailbox Servers.md",
@@ -226,7 +228,6 @@
     "Web Servers.md",
     "File/File-Print Servers.md",
     "File",
-    "Module 7.md",
     "Comptia A+ Exam.md",
     "Public and Private Addressing.md",
     "TCP-IP Concepts.md",
@@ -243,7 +244,6 @@
     "Transmisson Controll Protocol (TCP).md",
     "Cellular Radio Internet Connections.md",
     "Internet Connection Types and Modems.md",
-    "Important Ports.md",
     "Pasted image 20261001171936.png",
     "aplus_fig06_04_02.png",
     "aplus_fig06_04_02-1.png",
