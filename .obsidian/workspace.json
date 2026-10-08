@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mail Servers.md",
+                "file": "Proxy Servers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mail Servers"
+              "title": "Proxy Servers"
             }
           }
         ]
@@ -217,21 +217,23 @@
   },
   "active": "a0e44946fe746329",
   "lastOpenFiles": [
-    "Networked host services.md",
-    "Mailbox Servers.md",
-    "Mail Servers.md",
+    "Internet and Embedded Appliances.md",
+    "Proxy Servers.md",
     "Module 7.md",
+    "Networked host services.md",
+    "File/File-Print Servers.md",
+    "Directory and Authentication Servers.md",
+    "Remote Terminal Access Servers.md",
+    "Network Monitoring Servers.md",
+    "Mail Servers.md",
+    "Mailbox Servers.md",
     "Important Ports.md",
     "Network Communications.md",
     "Module 6.md",
     "Network Configuration Concepts.md",
     "Internet Connection Types.md",
-    "Remote Terminal Access Servers.md",
     "Web Servers.md",
-    "Directory and Authentication Servers.md",
-    "Network Monitoring Servers.md",
     "Hypertext Transfer Protocol Secure.md",
-    "File/File-Print Servers.md",
     "File",
     "Comptia A+ Exam.md",
     "Public and Private Addressing.md",
@@ -242,8 +244,6 @@
     "IPv4 Forwarding.md",
     "TCP-IP Layers.md",
     "TCP-IP.md",
-    "Protocols and Ports.md",
-    "Transmisson Controll Protocol (TCP).md",
     "Pasted image 20261001171936.png",
     "aplus_fig06_04_02.png",
     "aplus_fig06_04_02-1.png",
