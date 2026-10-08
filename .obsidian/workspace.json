@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Monitoring Servers.md",
+                "file": "Mail Servers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Monitoring Servers"
+              "title": "Mail Servers"
             }
           }
         ]
@@ -218,32 +218,32 @@
   "active": "a0e44946fe746329",
   "lastOpenFiles": [
     "Networked host services.md",
-    "Network Monitoring Servers.md",
-    "Module 7.md",
-    "Remote Terminal Access Servers.md",
-    "Directory and Authentication Servers.md",
     "Mailbox Servers.md",
     "Mail Servers.md",
-    "Hypertext Transfer Protocol Secure.md",
+    "Module 7.md",
+    "Important Ports.md",
+    "Network Communications.md",
+    "Module 6.md",
+    "Network Configuration Concepts.md",
+    "Internet Connection Types.md",
+    "Remote Terminal Access Servers.md",
     "Web Servers.md",
+    "Directory and Authentication Servers.md",
+    "Network Monitoring Servers.md",
+    "Hypertext Transfer Protocol Secure.md",
     "File/File-Print Servers.md",
     "File",
     "Comptia A+ Exam.md",
     "Public and Private Addressing.md",
     "TCP-IP Concepts.md",
-    "Module 6.md",
-    "Internet Connection Types.md",
     "Digital Subscriber Line Modems.md",
     "Cable Modems.md",
     "Fiber to the Curb and Fiber to the Premises.md",
     "IPv4 Forwarding.md",
     "TCP-IP Layers.md",
     "TCP-IP.md",
-    "Network Communications.md",
     "Protocols and Ports.md",
     "Transmisson Controll Protocol (TCP).md",
-    "Cellular Radio Internet Connections.md",
-    "Internet Connection Types and Modems.md",
     "Pasted image 20261001171936.png",
     "aplus_fig06_04_02.png",
     "aplus_fig06_04_02-1.png",
