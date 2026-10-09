@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spam Gateways and Unified Threat Management.md",
+                "file": "Troubleshoot Wired Connectivity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spam Gateways and Unified Threat Management"
+              "title": "Troubleshoot Wired Connectivity"
             }
           }
         ]
@@ -217,12 +217,14 @@
   },
   "active": "a0e44946fe746329",
   "lastOpenFiles": [
+    "Troubleshoot Networks.md",
+    "Troubleshoot Wired Connectivity.md",
+    "Module 7.md",
     "Internet and Embedded Appliances.md",
+    "Spam Gateways and Unified Threat Management.md",
     "Embedded Systems and SCADA.md",
     "Proxy Servers.md",
-    "Spam Gateways and Unified Threat Management.md",
     "Internet of Things Devices.md",
-    "Module 7.md",
     "Networked host services.md",
     "File/File-Print Servers.md",
     "Directory and Authentication Servers.md",
@@ -242,8 +244,6 @@
     "Public and Private Addressing.md",
     "TCP-IP Concepts.md",
     "Digital Subscriber Line Modems.md",
-    "Cable Modems.md",
-    "Fiber to the Curb and Fiber to the Premises.md",
     "Pasted image 20261001171936.png",
     "aplus_fig06_04_02.png",
     "aplus_fig06_04_02-1.png",
