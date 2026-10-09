@@ -1,2 +1,3 @@
 - [[Troubleshoot Wired Connectivity]]
+- [[Troubleshoot Network Speed Issues]]
 - 

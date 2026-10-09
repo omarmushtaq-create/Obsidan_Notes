@@ -11,13 +11,13 @@
 ## Components of a Typical Ethernet Link
 Think of the path from the computer to the switch as a chain. A fault in any link can break the connection:
 
-| # | Component |
-|---|------------|
-| 1 | **NIC port** on the host |
-| 2 | **RJ45 patch cord** (host to wall port) |
-| 3 | **Structured cable** (wall port to patch panel) - the **permanent link**, terminated to **IDC blocks** |
-| 4 | **RJ45 patch cord** (patch panel to switch port) |
-| 5 | **Network transceiver** in the switch port |
+| #   | Component                                                                                              |
+| --- | ------------------------------------------------------------------------------------------------------ |
+| 1   | **NIC port** on the host                                                                               |
+| 2   | **RJ45 patch cord** (host to wall port)                                                                |
+| 3   | **Structured cable** (wall port to patch panel) - the **permanent link**, terminated to **IDC blocks** |
+| 4   | **RJ45 patch cord** (patch panel to switch port)                                                       |
+| 5   | **Network transceiver** in the switch port                                                             |
 
 > **Tip:** **Link LEDs** on the NIC and switch port show if the link is active (and sometimes the speed). They **flicker** to show network activity.
 
