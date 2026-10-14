@@ -1,4 +1,6 @@
 - [[Troubleshoot Wired Connectivity]]
 - [[Troubleshoot Network Speed Issues]]
 - [[Troubleshoot Wireless Issues]]
+- [[Troubleshoot VoIP Issues]]
+- [[Troubleshoot Limited Connectivity]]
 - 
