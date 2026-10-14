@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Configuration Concepts.md",
+                "file": "Troubleshoot Wireless Issues.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Configuration Concepts"
+              "title": "Troubleshoot Wireless Issues"
             }
           }
         ]
@@ -217,13 +217,15 @@
   },
   "active": "a0e44946fe746329",
   "lastOpenFiles": [
+    "Troubleshoot Networks.md",
+    "Troubleshoot Wireless Issues.md",
+    "Module 7.md",
+    "Network Configuration Concepts.md",
     "2026-10-09.md",
     "TCP-IP Concepts.md",
     "Module 6.md",
-    "Troubleshoot Networks.md",
     "Troubleshoot Network Speed Issues.md",
     "Troubleshoot Wired Connectivity.md",
-    "Module 7.md",
     "Internet and Embedded Appliances.md",
     "Spam Gateways and Unified Threat Management.md",
     "Embedded Systems and SCADA.md",
@@ -238,12 +240,10 @@
     "Mailbox Servers.md",
     "Important Ports.md",
     "Network Communications.md",
-    "Network Configuration Concepts.md",
     "Internet Connection Types.md",
     "Web Servers.md",
     "Hypertext Transfer Protocol Secure.md",
     "File",
-    "Comptia A+ Exam.md",
     "Pasted image 20261001171936.png",
     "aplus_fig06_04_02.png",
     "aplus_fig06_04_02-1.png",
