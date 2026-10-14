@@ -50,10 +50,10 @@
 
 ## Quick Comparison
 
-| Message | Means | Likely Cause |
-|---------|-------|----------------|
+| Message                  | Means                                                   | Likely Cause                                                  |
+| ------------------------ | ------------------------------------------------------- | ------------------------------------------------------------- |
 | **Limited connectivity** | Physical link OK, **no DHCP lease** (APIPA 169.254.x.y) | DHCP server down/out of leases, wrong switch port, wrong VLAN |
-| **No Internet access** | Has IP config, **can't reach the Internet** | Router/ISP outage or DNS problem |
+| **No Internet access**   | Has IP config, **can't reach the Internet**             | Router/ISP outage or DNS problem                              |
 
 ---
 
