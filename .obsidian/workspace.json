@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troubleshoot Networks.md",
+                "file": "Module 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Troubleshoot Networks"
+              "title": "Module 7"
             }
           }
         ]
@@ -217,11 +217,14 @@
   },
   "active": "a0e44946fe746329",
   "lastOpenFiles": [
+    "Networked host services.md",
     "Module 7.md",
     "Comptia A+ Exam.md",
-    "Troubleshoot Wireless Issues.md",
-    "Troubleshoot Networks.md",
     "Module 6.md",
+    "Troubleshoot Networks.md",
+    "Internet and Embedded Appliances.md",
+    "Proxy Servers.md",
+    "Troubleshoot Wireless Issues.md",
     "Useful ipconfig commands.md",
     "Random important info.md",
     "aplus_fig06_04_02-2.png",
@@ -232,12 +235,9 @@
     "2026-10-09.md",
     "TCP-IP Concepts.md",
     "Troubleshoot Network Speed Issues.md",
-    "Internet and Embedded Appliances.md",
     "Spam Gateways and Unified Threat Management.md",
     "Embedded Systems and SCADA.md",
-    "Proxy Servers.md",
     "Internet of Things Devices.md",
-    "Networked host services.md",
     "File/File-Print Servers.md",
     "Directory and Authentication Servers.md",
     "Remote Terminal Access Servers.md",

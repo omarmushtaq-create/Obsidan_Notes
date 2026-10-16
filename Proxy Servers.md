@@ -1,4 +1,4 @@
-aa
+
 ## NAT (Network Address Translation)
 - On SOHO networks, LAN devices reach the Internet through the **router** using **NAT**
 - NAT = translates **private IPs** (LAN) to **public IPs** (Internet)
