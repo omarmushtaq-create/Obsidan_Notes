@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 7.md",
+                "file": "Legacy Cables (2.3).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 7"
+              "title": "Legacy Cables (2.3)"
             }
           }
         ]
@@ -191,8 +191,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -217,15 +217,18 @@
   },
   "active": "a0e44946fe746329",
   "lastOpenFiles": [
-    "Networked host services.md",
-    "Module 7.md",
-    "Comptia A+ Exam.md",
+    "TCP-IP Concepts.md",
+    "TCP-IP.md",
     "Module 6.md",
+    "Internet Connection Types.md",
+    "Module 7.md",
     "Troubleshoot Networks.md",
+    "Useful ipconfig commands.md",
+    "Networked host services.md",
+    "Comptia A+ Exam.md",
     "Internet and Embedded Appliances.md",
     "Proxy Servers.md",
     "Troubleshoot Wireless Issues.md",
-    "Useful ipconfig commands.md",
     "Random important info.md",
     "aplus_fig06_04_02-2.png",
     "Troubleshoot Limited Connectivity.md",
@@ -233,7 +236,6 @@
     "Troubleshoot VoIP Issues.md",
     "Network Configuration Concepts.md",
     "2026-10-09.md",
-    "TCP-IP Concepts.md",
     "Troubleshoot Network Speed Issues.md",
     "Spam Gateways and Unified Threat Management.md",
     "Embedded Systems and SCADA.md",
@@ -242,8 +244,6 @@
     "Directory and Authentication Servers.md",
     "Remote Terminal Access Servers.md",
     "Network Monitoring Servers.md",
-    "Mail Servers.md",
-    "Mailbox Servers.md",
     "File",
     "Pasted image 20261001171936.png",
     "aplus_fig06_04_02.png",
