@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fixed Wireless Internet Access.md",
+                "file": "Cable Modems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fixed Wireless Internet Access"
+              "title": "Cable Modems"
             }
           }
         ]
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fixed wireless",
+                "query": "router",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,6 +218,8 @@
   },
   "active": "a0e44946fe746329",
   "lastOpenFiles": [
+    "Cellular Radio Internet Connections.md",
+    "Fixed Wireless Internet Access.md",
     "Fiber to the Curb and Fiber to the Premises.md",
     "Cable Modems.md",
     "Digital Subscriber Line Modems.md",
@@ -243,8 +245,6 @@
     "Network Configuration Concepts.md",
     "2026-10-09.md",
     "Troubleshoot Network Speed Issues.md",
-    "Spam Gateways and Unified Threat Management.md",
-    "Embedded Systems and SCADA.md",
     "File",
     "Pasted image 20261001171936.png",
     "aplus_fig06_04_02.png",
