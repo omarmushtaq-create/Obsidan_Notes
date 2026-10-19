@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Client-Side Virtualization.md",
+                "file": "Commands for VMs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Client-Side Virtualization"
+              "title": "Commands for VMs"
             }
           }
         ]
@@ -215,8 +215,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bfb40a708949e72d",
+  "active": "a0e44946fe746329",
   "lastOpenFiles": [
+    "Commands for VMs.md",
     "Client-Side Virtualization.md",
     "Module 8.md",
     "Comptia A+ Exam.md",
@@ -242,7 +243,6 @@
     "Fiber to the Curb and Fiber to the Premises.md",
     "Important Ports.md",
     "Public and Private Addressing.md",
-    "Cable Modems.md",
     "aplus_fig06_04_02-2.png",
     "File",
     "Pasted image 20261001171936.png",
