@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cellular Radio Internet Connections.md",
+                "file": "Hard Drives - SATA Drives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cellular Radio Internet Connections"
+              "title": "Hard Drives - SATA Drives"
             }
           }
         ]
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IOT",
+                "query": "sata",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,8 +216,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bfb40a708949e72d",
+  "active": "a0e44946fe746329",
   "lastOpenFiles": [
+    "Storage Devices.md",
+    "SATA.md",
+    "Random important info.md",
+    "Power Supplies.md",
+    "Hard Drives - SATA Drives.md",
+    "Cables (2.1).md",
+    "Serial Cables.md",
+    "Legacy Cables (2.3).md",
     "Cellular Radio Internet Connections.md",
     "Patch Panels.md",
     "Optical Cabling.md",
@@ -228,7 +236,6 @@
     "Fixed Wireless Internet Access.md",
     "Digital Subscriber Line Modems.md",
     "Copper Cabling Connectors.md",
-    "Legacy Cables (2.3).md",
     "TCP-IP Concepts.md",
     "TCP-IP.md",
     "Module 6.md",
@@ -237,14 +244,7 @@
     "Troubleshoot Networks.md",
     "Useful ipconfig commands.md",
     "Networked host services.md",
-    "Comptia A+ Exam.md",
-    "Internet and Embedded Appliances.md",
-    "Proxy Servers.md",
-    "Troubleshoot Wireless Issues.md",
-    "Random important info.md",
     "aplus_fig06_04_02-2.png",
-    "Troubleshoot Limited Connectivity.md",
-    "Troubleshoot Wired Connectivity.md",
     "File",
     "Pasted image 20261001171936.png",
     "aplus_fig06_04_02.png",
