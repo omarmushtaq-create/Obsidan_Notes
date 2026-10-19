@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Subscriber Line Modems.md",
+                "file": "Fixed Wireless Internet Access.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Digital Subscriber Line Modems"
+              "title": "Fixed Wireless Internet Access"
             }
           }
         ]
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dsl",
+                "query": "fixed wireless",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,8 +218,10 @@
   },
   "active": "a0e44946fe746329",
   "lastOpenFiles": [
-    "Copper Cabling Connectors.md",
+    "Fiber to the Curb and Fiber to the Premises.md",
     "Cable Modems.md",
+    "Digital Subscriber Line Modems.md",
+    "Copper Cabling Connectors.md",
     "Legacy Cables (2.3).md",
     "TCP-IP Concepts.md",
     "TCP-IP.md",
@@ -243,8 +245,6 @@
     "Troubleshoot Network Speed Issues.md",
     "Spam Gateways and Unified Threat Management.md",
     "Embedded Systems and SCADA.md",
-    "Internet of Things Devices.md",
-    "File/File-Print Servers.md",
     "File",
     "Pasted image 20261001171936.png",
     "aplus_fig06_04_02.png",
