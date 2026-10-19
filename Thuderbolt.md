@@ -8,4 +8,7 @@
 	- Same as 3 but now with improved minimum performance requirements and expanded capabilities, such as support for docks with up to four Thunderbolt 4 ports.
 - Thunderbolt 5
 	- Same as 4 but faster
-	
+
+
+  
+*It can daisy-chain multiple devices through a single port.*
