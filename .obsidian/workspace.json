@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cable Modems.md",
+                "file": "Cellular Radio Internet Connections.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cable Modems"
+              "title": "Cellular Radio Internet Connections"
             }
           }
         ]
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "router",
+                "query": "IOT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,12 +216,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0e44946fe746329",
+  "active": "bfb40a708949e72d",
   "lastOpenFiles": [
     "Cellular Radio Internet Connections.md",
-    "Fixed Wireless Internet Access.md",
+    "Patch Panels.md",
+    "Optical Cabling.md",
     "Fiber to the Curb and Fiber to the Premises.md",
+    "Important Ports.md",
+    "Public and Private Addressing.md",
     "Cable Modems.md",
+    "Fixed Wireless Internet Access.md",
     "Digital Subscriber Line Modems.md",
     "Copper Cabling Connectors.md",
     "Legacy Cables (2.3).md",
@@ -241,10 +245,6 @@
     "aplus_fig06_04_02-2.png",
     "Troubleshoot Limited Connectivity.md",
     "Troubleshoot Wired Connectivity.md",
-    "Troubleshoot VoIP Issues.md",
-    "Network Configuration Concepts.md",
-    "2026-10-09.md",
-    "Troubleshoot Network Speed Issues.md",
     "File",
     "Pasted image 20261001171936.png",
     "aplus_fig06_04_02.png",
