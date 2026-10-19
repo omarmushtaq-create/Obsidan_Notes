@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Interface Cards and MACS.md",
+                "file": "Client-Side Virtualization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Interface Cards and MACS"
+              "title": "Client-Side Virtualization"
             }
           }
         ]
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MAC",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,8 +97,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,8 +217,11 @@
   },
   "active": "a0e44946fe746329",
   "lastOpenFiles": [
-    "Network Hardwear.md",
+    "Module 8.md",
+    "Client-Side Virtualization.md",
+    "Comptia A+ Exam.md",
     "Network Interface Cards and MACS.md",
+    "Network Hardwear.md",
     "IPv4 Forwarding.md",
     "Access Points.md",
     "Proxy Servers.md",
@@ -241,9 +243,6 @@
     "Important Ports.md",
     "Public and Private Addressing.md",
     "Cable Modems.md",
-    "Fixed Wireless Internet Access.md",
-    "Digital Subscriber Line Modems.md",
-    "Copper Cabling Connectors.md",
     "aplus_fig06_04_02-2.png",
     "File",
     "Pasted image 20261001171936.png",

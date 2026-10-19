@@ -5,7 +5,8 @@
 5. [[Module 5]]
 6. [[Module 6]]
 7. [[Module 7]]
-8. 
+8. [[Module 8]]
+9. 
 
 
 [[Random important info]]
