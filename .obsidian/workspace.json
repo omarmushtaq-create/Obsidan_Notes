@@ -1,36 +1,63 @@
 {
   "main": {
-    "id": "79003e0c7ac558df",
+    "id": "e2f99265a1c211b0",
     "type": "split",
     "children": [
       {
-        "id": "bd3b6a9dd1ccb1b3",
+        "id": "f369c45ce8f74c4f",
         "type": "tabs",
-        "dimension": 50.69637883008357,
         "children": [
           {
-            "id": "a0e44946fe746329",
+            "id": "842ec2e06b627d38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commands for VMs.md",
+                "file": "Cables (2.1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commands for VMs"
+              "title": "Cables (2.1)"
+            }
+          },
+          {
+            "id": "f04082894bbbbe0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "In-Pane Switching (IPS).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "In-Pane Switching (IPS)"
+            }
+          },
+          {
+            "id": "6771227aff8dac9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Important Ports.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Important Ports"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "d099e597743c1c38",
+        "id": "f44742ceed303abc",
         "type": "tabs",
-        "dimension": 49.30362116991643,
         "children": [
           {
-            "id": "bfb40a708949e72d",
+            "id": "b4197ab88cc2a1d7",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -45,15 +72,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "23658bdee0a7b636",
+    "id": "dfb8981972e89edb",
     "type": "split",
     "children": [
       {
-        "id": "5459f6f2f769ff6f",
+        "id": "8441f2cc84032557",
         "type": "tabs",
         "children": [
           {
-            "id": "0007834d95c0fbc6",
+            "id": "e96a26bfc456f664",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +95,7 @@
             }
           },
           {
-            "id": "f3571479b1d6b118",
+            "id": "f1df1eae40d2ae08",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -85,7 +112,7 @@
             }
           },
           {
-            "id": "9915d4cbb6831543",
+            "id": "74fe792a6c66a3f0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -101,22 +128,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "478c3571e4a1a46a",
+    "id": "f5a98fa955190b86",
     "type": "split",
     "children": [
       {
-        "id": "d9c162b031990919",
+        "id": "575ce5fe671f0fe2",
         "type": "tabs",
         "children": [
           {
-            "id": "92fa5a949985eeef",
+            "id": "92569462fd6aa5a2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Serial Cables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,11 +158,12 @@
             }
           },
           {
-            "id": "84c1ec07a3449a3f",
+            "id": "156bb0780ec1ef01",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -143,7 +172,7 @@
             }
           },
           {
-            "id": "b814fc8b20e8c286",
+            "id": "d92f3b32c0a0f1d5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -158,7 +187,7 @@
             }
           },
           {
-            "id": "1d8e1647186370ca",
+            "id": "4b5111fd5c14e79a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -172,11 +201,12 @@
             }
           },
           {
-            "id": "0485f446fa6e4443",
+            "id": "a4fed0c1caf65957",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,19 +214,8 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "33f74429bb4d6de2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,44 +234,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0e44946fe746329",
+  "active": "6771227aff8dac9f",
   "lastOpenFiles": [
-    "Commands for VMs.md",
-    "Client-Side Virtualization.md",
-    "Module 8.md",
-    "Comptia A+ Exam.md",
-    "Network Interface Cards and MACS.md",
-    "Network Hardwear.md",
-    "IPv4 Forwarding.md",
-    "Access Points.md",
-    "Proxy Servers.md",
-    "Touch Screen and Digitizer.md",
-    "Display Components.md",
-    "Thuderbolt.md",
-    "Hard Drives - SATA Drives.md",
-    "Storage Devices.md",
-    "SATA.md",
-    "Random important info.md",
-    "Power Supplies.md",
-    "Cables (2.1).md",
-    "Serial Cables.md",
-    "Legacy Cables (2.3).md",
-    "Cellular Radio Internet Connections.md",
-    "Patch Panels.md",
-    "Optical Cabling.md",
-    "Fiber to the Curb and Fiber to the Premises.md",
-    "Important Ports.md",
-    "Public and Private Addressing.md",
     "aplus_fig06_04_02-2.png",
-    "File",
+    "Web Servers.md",
+    "Virtual Private Networks.md",
+    "Virtual LANs.md",
+    "Useful ipconfig commands.md",
+    "Troubleshoot Wireless Issues.md",
+    "Troubleshoot Wired Connectivity.md",
+    "Troubleshoot VoIP Issues.md",
+    "Troubleshoot Networks.md",
+    "Troubleshoot Network Speed Issues.md",
+    "Troubleshoot Limited Connectivity.md",
+    "Spam Gateways and Unified Threat Management.md",
+    "Remote Terminal Access Servers.md",
+    "Proxy Servers.md",
     "Pasted image 20261001171936.png",
-    "aplus_fig06_04_02.png",
-    "aplus_fig06_04_02-1.png",
-    "7174-1637618819177-windows_dhcp_server_showing_address_leases.png",
-    "3987-1637608028820-e5266ee1-3277-49b9-a0c0-706ea720229c863-1627647472796-net_fig10_01.png",
-    "7575-1638430456803-metageek_inssider_wifi_analyzer_privacy_blurred-01.png",
+    "Networked host services.md",
+    "Network Monitoring Servers.md",
+    "Network Configuration Concepts.md",
+    "Module 8.md",
+    "Module 7.md",
+    "Mailbox Servers.md",
+    "Mail Servers.md",
+    "Internet of Things Devices.md",
+    "Internet and Embedded Appliances.md",
+    "Hypertext Transfer Protocol Secure.md",
+    "File/File-Print Servers.md",
+    "File",
+    "Embedded Systems and SCADA.md",
     "iv_wireless_networks_2.jpg",
+    "IEEE 802.11b",
     "Untitled.canvas",
-    "Hard Drives"
+    "Untitled.base",
+    "Untitled 13.base",
+    "Untitled 12.base",
+    "Untitled 11.base",
+    "Untitled 10.base",
+    "Untitled 9.base",
+    "Untitled 8.base",
+    "Untitled 7.base"
   ]
 }
