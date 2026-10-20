@@ -1,6 +1,6 @@
 | Port#   | TCP/UDP | Protocol                                          | Purpose                                                                                                                                              |
 | ------- | ------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| \       | TCP     | File Transfer Protocol (FTP)—Data connection      | Make files available for download across a network (data connection port)                                                                            |
+| 20      | TCP     | File Transfer Protocol (FTP)—Data connection      | Make files available for download across a network (data connection port)                                                                            |
 | 21      | TCP     | File Transfer Protocol (FTP)—Control connection   | Make files available for download across a network (control connection port)                                                                         |
 | 22      | TCP     | Secure Shell (SSH)                                | Make a secure connection to the command-line interface of a server                                                                                   |
 | 23      | TCP     | Telnet                                            | Make an unsecure connection to the command-line interface of a server                                                                                |

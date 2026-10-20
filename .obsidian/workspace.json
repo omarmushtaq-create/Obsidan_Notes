@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Client-Side Virtualization.md",
+                "file": "Module 9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Client-Side Virtualization"
+              "title": "Module 9"
             }
           }
         ],
@@ -234,13 +234,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4197ab88cc2a1d7",
+  "active": "6771227aff8dac9f",
   "lastOpenFiles": [
+    "Comptia A+ Exam.md",
+    "Module 9.md",
+    "Important Ports.md",
+    "Module 8.md",
+    "Client-Side Virtualization.md",
     "iv_wireless_networks_2.jpg",
     "Module 6.md",
-    "Client-Side Virtualization.md",
-    "Module 8.md",
-    "Important Ports.md",
     "aplus_fig06_04_02-2.png",
     "Web Servers.md",
     "Virtual Private Networks.md",
@@ -263,7 +265,6 @@
     "Mailbox Servers.md",
     "Mail Servers.md",
     "Internet of Things Devices.md",
-    "Internet and Embedded Appliances.md",
     "File",
     "IEEE 802.11b",
     "Untitled.canvas",
