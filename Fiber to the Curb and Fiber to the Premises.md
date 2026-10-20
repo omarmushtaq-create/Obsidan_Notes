@@ -2,7 +2,8 @@
 ## The Problem: Last Mile Bandwidth
 - Biggest obstacle to LAN-like Internet speeds = **the last mile**
 - Copper wiring there is often **low-grade**
-- Projects to replace it with fiber = **Fiber to the X (FTTx)** (umbrella term)
+- Projects to replace it with 
+- fiber = **Fiber to the X (FTTx)** (umbrella term)
 
 ---
 
