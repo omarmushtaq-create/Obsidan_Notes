@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "thermal printer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,13 +236,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e96a26bfc456f664",
+  "active": "6771227aff8dac9f",
   "lastOpenFiles": [
+    "Digital Subscriber Line Modems.md",
+    "Random important info.md",
     "Troubleshoot VoIP Issues.md",
     "Troubleshoot Networks.md",
     "POE (Power Over Ethernet).md",
     "Fixed Wireless Internet Access.md",
-    "Random important info.md",
     "Trusted Platform Modules.md",
     "Mail Servers.md",
     "Important Ports.md",
@@ -265,7 +266,6 @@
     "Client-Side Virtualization.md",
     "iv_wireless_networks_2.jpg",
     "aplus_fig06_04_02-2.png",
-    "Web Servers.md",
     "Pasted image 20261001171936.png",
     "File",
     "IEEE 802.11b",

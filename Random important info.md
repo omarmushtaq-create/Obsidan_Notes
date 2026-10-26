@@ -10,3 +10,4 @@
 8. IEEE 802.11 is wifi and IEE 802.3 is ethernet
 9. A digital subscriber line (DSL) uses the higher frequencies available in copper telephone lines as a communications channel. The two major "flavors" of this type of connection are asymmetrical and symmetrical.
 10. PCIe uses p2p
+11. Therm
