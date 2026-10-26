@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAID 5.md",
+                "file": "Hard Drives - SATA Drives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAID 5"
+              "title": "Hard Drives - SATA Drives"
             }
           }
         ],
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hard drives",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,12 +239,13 @@
   },
   "active": "6771227aff8dac9f",
   "lastOpenFiles": [
+    "Storage Devices.md",
+    "RAID 5.md",
     "RAIDS Arrays.md",
     "RAID 1.md",
     "RAID 0.md",
     "RAID 6.md",
     "RAID 10.md",
-    "RAID 5.md",
     "Random important info.md",
     "Digital Subscriber Line Modems.md",
     "Troubleshoot VoIP Issues.md",
@@ -264,7 +265,6 @@
     "Mini-Led.md",
     "Module 5.md",
     "Module 6.md",
-    "Module 7.md",
     "iv_wireless_networks_2.jpg",
     "aplus_fig06_04_02-2.png",
     "Pasted image 20261001171936.png",
