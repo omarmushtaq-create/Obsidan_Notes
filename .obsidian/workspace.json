@@ -6,6 +6,7 @@
       {
         "id": "f369c45ce8f74c4f",
         "type": "tabs",
+        "dimension": 73.54497354497354,
         "children": [
           {
             "id": "842ec2e06b627d38",
@@ -41,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNS Spam Management Records.md",
+                "file": "Trusted Platform Modules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS Spam Management Records"
+              "title": "Trusted Platform Modules"
             }
           }
         ],
@@ -55,6 +56,7 @@
       {
         "id": "f44742ceed303abc",
         "type": "tabs",
+        "dimension": 26.455026455026452,
         "children": [
           {
             "id": "b4197ab88cc2a1d7",
@@ -100,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,8 +126,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -235,8 +236,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4197ab88cc2a1d7",
+  "active": "e96a26bfc456f664",
   "lastOpenFiles": [
+    "Mail Servers.md",
+    "Important Ports.md",
     "DNS Spam Management Records.md",
     "Random important info.md",
     "Power Supplies.md",
@@ -255,7 +258,6 @@
     "File/File-Print Servers.md",
     "Fixed Wireless Internet Access.md",
     "Comptia A+ Exam.md",
-    "Important Ports.md",
     "Client-Side Virtualization.md",
     "iv_wireless_networks_2.jpg",
     "aplus_fig06_04_02-2.png",
@@ -264,7 +266,6 @@
     "Virtual LANs.md",
     "Useful ipconfig commands.md",
     "Troubleshoot Wireless Issues.md",
-    "Troubleshoot Wired Connectivity.md",
     "Pasted image 20261001171936.png",
     "File",
     "IEEE 802.11b",
