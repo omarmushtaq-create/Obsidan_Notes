@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trusted Platform Modules.md",
+                "file": "Random important info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trusted Platform Modules"
+              "title": "Random important info"
             }
           }
         ],
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bus",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,10 +238,15 @@
   },
   "active": "e96a26bfc456f664",
   "lastOpenFiles": [
+    "Troubleshoot VoIP Issues.md",
+    "Troubleshoot Networks.md",
+    "POE (Power Over Ethernet).md",
+    "Fixed Wireless Internet Access.md",
+    "Random important info.md",
+    "Trusted Platform Modules.md",
     "Mail Servers.md",
     "Important Ports.md",
     "DNS Spam Management Records.md",
-    "Random important info.md",
     "Power Supplies.md",
     "Memory Cards.md",
     "Module 4.md",
@@ -256,16 +261,11 @@
     "Module 8.md",
     "Module 9.md",
     "File/File-Print Servers.md",
-    "Fixed Wireless Internet Access.md",
     "Comptia A+ Exam.md",
     "Client-Side Virtualization.md",
     "iv_wireless_networks_2.jpg",
     "aplus_fig06_04_02-2.png",
     "Web Servers.md",
-    "Virtual Private Networks.md",
-    "Virtual LANs.md",
-    "Useful ipconfig commands.md",
-    "Troubleshoot Wireless Issues.md",
     "Pasted image 20261001171936.png",
     "File",
     "IEEE 802.11b",
