@@ -11,3 +11,4 @@
 9. A digital subscriber line (DSL) uses the higher frequencies available in copper telephone lines as a communications channel. The two major "flavors" of this type of connection are asymmetrical and symmetrical.
 10. PCIe uses p2p
 11. Watch out for paper debris on thermal printers
+12. Mini diim and Micro diim are used for ultra portable laptops

@@ -1,65 +1,36 @@
 {
   "main": {
-    "id": "e2f99265a1c211b0",
+    "id": "79003e0c7ac558df",
     "type": "split",
     "children": [
       {
-        "id": "f369c45ce8f74c4f",
+        "id": "bd3b6a9dd1ccb1b3",
         "type": "tabs",
-        "dimension": 73.54497354497354,
+        "dimension": 50.69637883008357,
         "children": [
           {
-            "id": "842ec2e06b627d38",
+            "id": "a0e44946fe746329",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cables (2.1).md",
+                "file": "Random important info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cables (2.1)"
-            }
-          },
-          {
-            "id": "f04082894bbbbe0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In-Pane Switching (IPS).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "In-Pane Switching (IPS)"
-            }
-          },
-          {
-            "id": "6771227aff8dac9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lcd Types.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lcd Types"
+              "title": "Random important info"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "f44742ceed303abc",
+        "id": "d099e597743c1c38",
         "type": "tabs",
-        "dimension": 26.455026455026452,
+        "dimension": 49.30362116991643,
         "children": [
           {
-            "id": "b4197ab88cc2a1d7",
+            "id": "bfb40a708949e72d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -74,15 +45,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dfb8981972e89edb",
+    "id": "23658bdee0a7b636",
     "type": "split",
     "children": [
       {
-        "id": "8441f2cc84032557",
+        "id": "5459f6f2f769ff6f",
         "type": "tabs",
         "children": [
           {
-            "id": "e96a26bfc456f664",
+            "id": "0007834d95c0fbc6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -97,12 +68,12 @@
             }
           },
           {
-            "id": "f1df1eae40d2ae08",
+            "id": "f3571479b1d6b118",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "hard drives",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +85,7 @@
             }
           },
           {
-            "id": "74fe792a6c66a3f0",
+            "id": "9915d4cbb6831543",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -130,23 +101,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.9609375
+    "width": 200
   },
   "right": {
-    "id": "f5a98fa955190b86",
+    "id": "478c3571e4a1a46a",
     "type": "split",
     "children": [
       {
-        "id": "575ce5fe671f0fe2",
+        "id": "d9c162b031990919",
         "type": "tabs",
         "children": [
           {
-            "id": "92569462fd6aa5a2",
+            "id": "92fa5a949985eeef",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serial Cables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,12 +130,11 @@
             }
           },
           {
-            "id": "156bb0780ec1ef01",
+            "id": "84c1ec07a3449a3f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -174,7 +143,7 @@
             }
           },
           {
-            "id": "d92f3b32c0a0f1d5",
+            "id": "b814fc8b20e8c286",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -189,7 +158,7 @@
             }
           },
           {
-            "id": "4b5111fd5c14e79a",
+            "id": "1d8e1647186370ca",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -203,12 +172,11 @@
             }
           },
           {
-            "id": "a4fed0c1caf65957",
+            "id": "0485f446fa6e4443",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -216,8 +184,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "33f74429bb4d6de2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -236,47 +215,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6771227aff8dac9f",
+  "active": "a0e44946fe746329",
   "lastOpenFiles": [
-    "Vertical Alignment (VA).md",
-    "Lcd Types.md",
-    "Twisted Nematic (TN).md",
-    "Organic Light-Emitting Diode (Oled).md",
-    "In-Pane Switching (IPS).md",
-    "Module 1.md",
-    "Hard Drives - SATA Drives.md",
-    "Storage Devices.md",
-    "RAID 5.md",
-    "RAIDS Arrays.md",
-    "RAID 1.md",
-    "RAID 0.md",
-    "RAID 6.md",
-    "RAID 10.md",
-    "Random important info.md",
-    "Digital Subscriber Line Modems.md",
-    "Troubleshoot VoIP Issues.md",
+    "Comptia A+ Exam.md",
+    "Module 7.md",
+    "Module 9.md",
+    "Module 8.md",
+    "Commands for VMs.md",
+    "Client-Side Virtualization.md",
+    "Cellular Data Networking.md",
+    "Networked host services.md",
+    "Module 6.md",
     "Troubleshoot Networks.md",
-    "POE (Power Over Ethernet).md",
-    "Fixed Wireless Internet Access.md",
-    "Trusted Platform Modules.md",
-    "Mail Servers.md",
-    "Important Ports.md",
-    "DNS Spam Management Records.md",
-    "Power Supplies.md",
-    "Memory Cards.md",
-    "iv_wireless_networks_2.jpg",
+    "Internet and Embedded Appliances.md",
+    "Proxy Servers.md",
+    "Troubleshoot Wireless Issues.md",
+    "Useful ipconfig commands.md",
+    "Random important info.md",
     "aplus_fig06_04_02-2.png",
-    "Pasted image 20261001171936.png",
+    "Troubleshoot Limited Connectivity.md",
+    "Troubleshoot Wired Connectivity.md",
+    "Troubleshoot VoIP Issues.md",
+    "Network Configuration Concepts.md",
+    "2026-10-09.md",
+    "TCP-IP Concepts.md",
+    "Troubleshoot Network Speed Issues.md",
+    "Spam Gateways and Unified Threat Management.md",
+    "Embedded Systems and SCADA.md",
+    "Internet of Things Devices.md",
+    "File/File-Print Servers.md",
     "File",
-    "IEEE 802.11b",
+    "Pasted image 20261001171936.png",
+    "aplus_fig06_04_02.png",
+    "aplus_fig06_04_02-1.png",
+    "7174-1637618819177-windows_dhcp_server_showing_address_leases.png",
+    "3987-1637608028820-e5266ee1-3277-49b9-a0c0-706ea720229c863-1627647472796-net_fig10_01.png",
+    "7575-1638430456803-metageek_inssider_wifi_analyzer_privacy_blurred-01.png",
+    "iv_wireless_networks_2.jpg",
     "Untitled.canvas",
-    "Untitled.base",
-    "Untitled 13.base",
-    "Untitled 12.base",
-    "Untitled 11.base",
-    "Untitled 10.base",
-    "Untitled 9.base",
-    "Untitled 8.base",
-    "Untitled 7.base"
+    "Hard Drives"
   ]
 }
