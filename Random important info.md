@@ -12,3 +12,10 @@
 10. PCIe uses p2p
 11. Watch out for paper debris on thermal printers
 12. Mini diim and Micro diim are used for ultra portable laptops
+13. Some mobile device cases provide a degree of waterproofing. Waterproofing is rated on the ingress protection (IP) scale. The first (6) is a rating for repelling solids. In this case, dustproof.
+
+With an ingress protection (IP) scale, the first number after "IP" is used for solids rating. A 5 is a dust-protected rating, which is not as protective as a 6.
+
+When using an ingress protection (IP) scale, two numbers are designated after "IP." The first digit is for solids rating, and the second is for liquids.
+
+In an ingress protection (IP) scale, the second value (8) is for liquids, 8 being protected from immersion beyond 1 m. The X means there is no rating.
