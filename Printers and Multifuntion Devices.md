@@ -7,3 +7,9 @@ Inkjet printers do not use heat and pressure; they spray ink droplets. Laser pri
 The primary charge roller is part of the laser printing process, not inkjet. Inkjet printers use a carriage system to move the printhead, not laser printers.
 
 A tractor feed. Continuous computer paper features perforated holes along both edges. A tractor feed uses rotating sprockets with pins that fit into these holes to pull the connected sheets steadily through the printer without slipping. This setup is standard on impact and dot matrix printers used for data logging.
+
+If the printer is online, but multiple jobs are queued, and a job cannot be deleted, this is a symptom of a print spooler issue. A restart of the print spooler service may be required.
+
+Ensuring that all components are properly installed and that the printer is ready to print is crucial for diagnosing connectivity issues.
+
+Ghost images within 2 to 3 cm of the original image are an indication that the ghosting is caused by the imaging drum. When a drum unit comes to the end of its usable life cycle, it may not discharge properly, leaving behind faint traces of the previous print job. An imaging drum can also become defective and discharge incorrectly between print runs, causing ghosting to occur. In either case, the best solution is to replace the imaging drum.
