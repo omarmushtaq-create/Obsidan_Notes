@@ -37,6 +37,20 @@
             }
           },
           {
+            "id": "bc96a6b2bbd3e635",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "6771227aff8dac9f",
             "type": "leaf",
             "state": {
@@ -51,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "f44742ceed303abc",
@@ -126,7 +140,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -236,13 +251,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f04082894bbbbe0b",
+  "active": "bc96a6b2bbd3e635",
   "lastOpenFiles": [
+    "In-Pane Switching (IPS).md",
+    "conflict-files-obsidian-git.md",
     "Printer Drivers and Page Description Languages.md",
     "Transmisson Controll Protocol (TCP).md",
     "Coaxial Cabling.md",
     "Cables (2.1).md",
-    "In-Pane Switching (IPS).md",
     "Printers and Multifuntion Devices.md",
     "Module 10.md",
     "Comptia A+ Exam.md",
@@ -263,7 +279,6 @@
     "RAID 6.md",
     "RAID 10.md",
     "Random important info.md",
-    "Digital Subscriber Line Modems.md",
     "iv_wireless_networks_2.jpg",
     "aplus_fig06_04_02-2.png",
     "Pasted image 20261001171936.png",
