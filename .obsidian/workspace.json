@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNS Record Types.md",
+                "file": "Storage tr.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS Record Types"
+              "title": "Storage tr"
             }
           }
         ],
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "record",
+                "query": "SMART",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -237,8 +237,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1df1eae40d2ae08",
+  "active": "6771227aff8dac9f",
   "lastOpenFiles": [
+    "DNS Record Types.md",
     "Printers and Multifuntion Devices.md",
     "Printer Drivers and Page Description Languages.md",
     "conflict-files-obsidian-git.md",
@@ -264,7 +265,6 @@
     "RAID 0.md",
     "RAID 6.md",
     "RAID 10.md",
-    "Random important info.md",
     "iv_wireless_networks_2.jpg",
     "aplus_fig06_04_02-2.png",
     "Pasted image 20261001171936.png",
