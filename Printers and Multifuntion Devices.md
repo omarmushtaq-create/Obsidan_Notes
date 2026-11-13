@@ -23,3 +23,5 @@ Calibration is how the printer determines the appropriate print density or color
 Although laser printers might cost more to purchase, in the long run, the cost to print black-and-white text (with occasional graphics) is less per page than with an Inkjet printer.
 
 You can configure a printer that is attached to a Windows workstation as a network printer by configuring it to be a shared printer. Do this by accessing the Devices and Printers panel on the workstation (Windows 10) or Bluetooth devices & Printers and scanners (Windows 11) and then opening the Properties window and configuring the settings on the Sharing tab.
+
+An imaging drum is in the charging stage of the laser printer. The imaging drum is a round rotating cylinder conditioned by the primary charge roller (PCR).
