@@ -13,3 +13,5 @@ If the printer is online, but multiple jobs are queued, and a job cannot be dele
 Ensuring that all components are properly installed and that the printer is ready to print is crucial for diagnosing connectivity issues.
 
 Ghost images within 2 to 3 cm of the original image are an indication that the ghosting is caused by the imaging drum. When a drum unit comes to the end of its usable life cycle, it may not discharge properly, leaving behind faint traces of the previous print job. An imaging drum can also become defective and discharge incorrectly between print runs, causing ghosting to occur. In either case, the best solution is to replace the imaging drum.
+
+If a printer is in infastructure you need to connect it with wireless
